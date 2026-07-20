@@ -286,7 +286,7 @@ input:focus-visible {
 }
 
 .executive-panel,
-.pulse-panel,
+.activity-panel,
 .watch-panel {
   padding: 28px;
 }
@@ -331,7 +331,7 @@ input:focus-visible {
 }
 
 .summary-copy p {
-  margin: 8px 0 0;
+  margin: 0;
   font-size: 14px;
   line-height: 1.68;
 }
@@ -387,48 +387,59 @@ input:focus-visible {
   list-style: none;
 }
 
-.pulse-stack {
+.activity-list {
   margin-top: 19px;
 }
 
-.pulse-row {
+.activity-list button {
+  display: grid;
+  width: 100%;
+  grid-template-columns: minmax(110px, 1fr) 1.2fr 28px;
+  align-items: center;
+  gap: 10px;
   padding: 13px 0;
   border-top: 1px solid var(--line);
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  background: transparent;
+  text-align: left;
+  cursor: pointer;
 }
 
-.pulse-label {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 8px;
+.activity-list button:hover span {
+  color: var(--teal);
 }
 
-.pulse-label span {
+.activity-list button span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   font-size: 12px;
   font-weight: 700;
 }
 
-.pulse-label strong {
-  color: var(--muted);
-  font: 700 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
-}
-
-.pulse-track {
+.activity-list button i {
   height: 6px;
+  display: block;
   overflow: hidden;
   border-radius: 99px;
   background: #e9e7e2;
 }
 
-.pulse-bar {
+.activity-list button b {
   display: block;
   height: 100%;
   border-radius: inherit;
   background: linear-gradient(90deg, var(--amber), #e99832);
 }
 
-.pulse-skeleton {
+.activity-list button strong {
+  text-align: right;
+  font: 700 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.activity-skeleton {
   height: 36px;
   margin: 13px 0;
   border-radius: 7px;
@@ -630,6 +641,89 @@ input:focus-visible {
   border-color: var(--navy);
   background: var(--navy);
   color: #fff;
+}
+
+.account-metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 18px 0;
+}
+
+.account-metrics span {
+  padding: 7px 10px;
+  border-radius: 7px;
+  background: #f0eee9;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.account-metrics strong {
+  color: var(--ink);
+}
+
+.viewpoint-block {
+  padding: 17px 18px;
+  border-left: 3px solid var(--amber);
+  border-radius: 0 9px 9px 0;
+  background: #f7f5f0;
+}
+
+.viewpoint-block ul {
+  margin: 0;
+  padding-left: 17px;
+}
+
+.viewpoint-block li {
+  margin: 0 0 9px;
+  color: #303746;
+  font-size: 13px;
+  line-height: 1.62;
+}
+
+.viewpoint-block li:last-child {
+  margin-bottom: 0;
+}
+
+.headline-copy {
+  margin: 0;
+  color: #303746;
+  font-size: 13px;
+  line-height: 1.62;
+}
+
+.updates-block {
+  margin-top: 20px;
+}
+
+.summary-row {
+  padding: 13px 0;
+  border-top: 1px solid var(--line);
+}
+
+.summary-row-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.summary-row-meta span {
+  padding: 4px 7px;
+  border-radius: 5px;
+  font-size: 9px;
+  font-weight: 800;
+}
+
+.summary-row-meta time {
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.summary-row > p {
+  margin: 7px 0 0;
+  color: #363d4e;
+  font-size: 12px;
+  line-height: 1.58;
 }
 
 .account-band {
@@ -892,7 +986,7 @@ noscript {
   }
 
   .executive-panel,
-  .pulse-panel,
+  .activity-panel,
   .watch-panel,
   .account-card {
     padding: 20px;
@@ -924,7 +1018,7 @@ noscript {
     scroll-behavior: auto;
   }
 
-  .pulse-skeleton {
+  .activity-skeleton {
     animation: none;
   }
 }

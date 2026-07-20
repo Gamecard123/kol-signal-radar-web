@@ -7,8 +7,6 @@
     "end": "2026-07-20T10:48:56.596Z",
     "timezone": "America/New_York"
   },
-  "disclaimer": "AI 辅助整理的公开信息摘要，未经独立核验，可能遗漏上下文，不构成投资建议。",
-  "sourceNote": "仅汇总公开可见内容；不发布原帖全文、第三方回复、媒体文件或采集数据。",
   "stats": {
     "monitoredAccounts": 8,
     "activeAccounts": 5,
@@ -51,7 +49,9 @@
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
       "lastActiveAt": "2026-07-20T08:45:01.000Z",
+      "activityCount": 22,
       "stance": "mixed",
+      "headline": "风险判断多空交织：一边警惕波动与尾部冲击，一边认为流动性变化可能带来阶段性支撑。",
       "summaries": [
         {
           "id": "sh-1",
@@ -80,7 +80,9 @@
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
       "lastActiveAt": "2026-07-20T04:44:25.000Z",
+      "activityCount": 28,
       "stance": "bearish",
+      "headline": "整体偏防御，核心关注信用与杠杆风险，等待去杠杆更充分后再评估新的风险资产买点。",
       "summaries": [
         {
           "id": "bb-1",
@@ -109,7 +111,9 @@
       "handle": "Franktradinglog",
       "profileUrl": "https://x.com/Franktradinglog",
       "lastActiveAt": null,
+      "activityCount": 0,
       "stance": "unclear",
+      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
       "summaries": [
         {
           "id": "fr-1",
@@ -124,7 +128,9 @@
       "handle": "labubu_trader",
       "profileUrl": "https://x.com/labubu_trader",
       "lastActiveAt": null,
+      "activityCount": 0,
       "stance": "unclear",
+      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
       "summaries": [
         {
           "id": "la-1",
@@ -139,7 +145,9 @@
       "handle": "Corsica267",
       "profileUrl": "https://x.com/Corsica267",
       "lastActiveAt": "2026-07-20T10:28:04.000Z",
+      "activityCount": 15,
       "stance": "bearish",
+      "headline": "跨资产框架转向风险监测，当前对科技股持战术性偏空立场。",
       "summaries": [
         {
           "id": "co-1",
@@ -161,7 +169,9 @@
       "handle": "NullOreo_",
       "profileUrl": "https://x.com/NullOreo_",
       "lastActiveAt": null,
+      "activityCount": 0,
       "stance": "unclear",
+      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
       "summaries": [
         {
           "id": "no-1",
@@ -176,7 +186,9 @@
       "handle": "maitian99",
       "profileUrl": "https://x.com/maitian99",
       "lastActiveAt": "2026-07-20T04:06:34.000Z",
+      "activityCount": 14,
       "stance": "bearish",
+      "headline": "质疑高科技板块边际买盘质量与相对表现的可持续性，风险判断整体偏谨慎。",
       "summaries": [
         {
           "id": "ma-1",
@@ -205,7 +217,9 @@
       "handle": "BillAckman",
       "profileUrl": "https://x.com/BillAckman",
       "lastActiveAt": "2026-07-19T17:01:52.000Z",
+      "activityCount": 3,
       "stance": "neutral",
+      "headline": "重点关注 AI 基础设施安全及其潜在治理与监管影响。",
       "summaries": [
         {
           "id": "ba-1",

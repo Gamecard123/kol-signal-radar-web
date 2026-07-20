@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#101827" />
+    <meta
+      name="description"
+      content="过去 24 小时公开市场 KOL 观点的脱敏摘要与观察清单。"
+    />
+    <meta property="og:title" content="KOL Signal Radar" />
+    <meta
+      property="og:description"
+      content="公开市场观点的脱敏摘要，不含原始采集数据。"
+    />
+    <meta property="og:type" content="website" />
+    <title>KOL Signal Radar</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到主要内容</a>
+
+    <header class="hero">
+      <nav class="topbar" aria-label="主要导航">
+        <a class="brand" href="./" aria-label="KOL Signal Radar 首页">
+          <span class="brand-mark">KR</span>
+          <span>KOL Signal Radar</span>
+        </a>
+        <div class="status"><span class="status-dot"></span>PUBLIC · 摘要快照</div>
+      </nav>
+
+      <div class="hero-copy">
+        <div>
+          <p class="eyebrow">MARKET INTELLIGENCE · 24H</p>
+          <h1>市场噪声很大，<br /><span>先看观点发生了什么。</span></h1>
+          <p class="hero-note" id="hero-note">
+            汇总公开可见的市场观点，只呈现经过脱敏和改写的高层摘要。
+          </p>
+        </div>
+        <div class="window-card" aria-label="观察窗口">
+          <span>观察窗口</span>
+          <strong id="window-hours">24H</strong>
+          <small id="window-label">正在读取公开摘要…</small>
+        </div>
+      </div>
+    </header>
+
+    <main class="dashboard-shell" id="main-content">
+      <section class="notice" aria-label="重要说明">
+        <span>公开摘要</span>
+        <p id="disclaimer">AI 辅助整理的公开信息摘要，未经独立核验，不构成投资建议。</p>
+      </section>
+
+      <div class="error-banner" id="error-banner" role="alert" hidden>
+        <span id="error-message">摘要暂时不可用。</span>
+        <button id="error-retry" type="button">重新读取</button>
+      </div>
+
+      <section class="briefing-grid">
+        <article class="panel executive-panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">EXECUTIVE BRIEF</p>
+              <h2>今日核心变化</h2>
+            </div>
+            <span class="as-of" id="as-of">等待更新</span>
+          </div>
+          <ol class="summary-list" id="executive-summary" aria-live="polite">
+            <li class="loading-line">正在整理公开观点…</li>
+          </ol>
+        </article>
+
+        <aside class="panel pulse-panel">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">MARKET PULSE</p>
+              <h2>本轮信号结构</h2>
+            </div>
+          </div>
+          <div class="pulse-stack" id="pulse-stack">
+            <div class="pulse-skeleton"></div>
+            <div class="pulse-skeleton"></div>
+            <div class="pulse-skeleton"></div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="stats-grid" aria-label="公开摘要概览">
+        <article>
+          <span>追踪账号</span>
+          <strong id="stat-monitored">—</strong>
+          <small>公开 KOL</small>
+        </article>
+        <article>
+          <span>活跃账号</span>
+          <strong id="stat-active">—</strong>
+          <small>过去 24 小时</small>
+        </article>
+        <article>
+          <span>观点提要</span>
+          <strong id="stat-summaries">—</strong>
+          <small>人工规则净化后</small>
+        </article>
+        <article>
+          <span>数据边界</span>
+          <strong>摘要</strong>
+          <small>不公开原文与回复</small>
+        </article>
+      </section>
+
+      <section class="filterbar" aria-label="筛选工具">
+        <div class="account-tabs" id="account-tabs" role="tablist" aria-label="按账号筛选"></div>
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <span class="sr-only">搜索观点</span>
+          <input id="search-input" type="search" placeholder="搜索主题或观点…" autocomplete="off" />
+        </label>
+        <button class="refresh-button" id="refresh-button" type="button">刷新摘要</button>
+      </section>
+
+      <section class="account-grid" id="account-grid" aria-live="polite"></section>
+
+      <section class="panel watch-panel">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">WATCH NEXT</p>
+            <h2>下一步验证清单</h2>
+          </div>
+          <span class="risk-chip">非投资建议</span>
+        </div>
+        <div class="watch-grid" id="watch-grid"></div>
+      </section>
+
+      <footer>
+        <span>KOL Signal Radar · 公开摘要版</span>
+        <span>信息来自公开页面 · 事实与行情请独立核验</span>
+      </footer>
+    </main>
+
+    <noscript>此网页需要 JavaScript 才能读取公开摘要。</noscript>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

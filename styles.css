@@ -719,6 +719,18 @@ input:focus-visible {
   font-size: 10px;
 }
 
+.summary-source {
+  margin-left: auto;
+  color: var(--teal);
+  font-size: 10px;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.summary-source:hover {
+  text-decoration: underline;
+}
+
 .summary-row > p {
   margin: 7px 0 0;
   color: #363d4e;

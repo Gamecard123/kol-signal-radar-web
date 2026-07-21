@@ -1,77 +1,101 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-20T10:48:56.596Z",
+  "generatedAt": "2026-07-21T12:44:54.000Z",
   "hours": 24,
   "window": {
-    "start": "2026-07-19T10:48:56.575Z",
-    "end": "2026-07-20T10:48:56.596Z",
+    "start": "2026-07-20T12:44:54.000Z",
+    "end": "2026-07-21T12:44:54.000Z",
     "timezone": "America/New_York"
   },
   "stats": {
     "monitoredAccounts": 8,
-    "activeAccounts": 5,
-    "summaryItems": 15
+    "activeAccounts": 7,
+    "summaryItems": 29
   },
   "executiveSummary": [
     {
       "id": "e1",
-      "topic": "去杠杆风险",
-      "summary": "多位观察者将近期压力归因于信用、杠杆与流动性脆弱性，认为市场对潜在去杠杆的计价仍不充分。",
+      "topic": "信用与波动",
+      "summary": "BabybusFL 仍未达到抄底标准，并把下一阶段风险指向 JNK、债务与流动性；同时认可“负 Gamma 会放大短期波动、但更像牛市回撤”的分析，说明其短期防御与中期非熊市判断并存。",
       "confidence": "medium"
     },
     {
       "id": "e2",
-      "topic": "政策与流动性",
-      "summary": "市场风险判断并非单向一致：一部分观点警惕波动扩大，另一部分认为流动性与监管环境变化可能为风险资产提供阶段性支撑。",
-      "confidence": "medium"
+      "topic": "半导体分歧",
+      "summary": "ShanghaoJin 战术性偏多 CPU、存储与提价链，但 labubu_trader 强调内存多头拥挤、周期股能否转成长股尚未证实；NullOreo_ 则把机构上调目标价视为半导体行情后段风险。",
+      "confidence": "high"
     },
     {
       "id": "e3",
-      "topic": "半导体资金",
-      "summary": "半导体板块的边际买盘被质疑更多来自杠杆型交易资金，而非长期主动资金，这会放大拥挤交易反转时的波动。",
-      "confidence": "medium"
+      "topic": "利率与商品",
+      "summary": "Corsica267 将当前状态概括为月度再通胀、周度滞胀、日度贴现率冲击，偏多金属与能源；QRA 供给结构、实际利率和油价是决定长久期资产能否修复的关键。",
+      "confidence": "high"
     },
     {
       "id": "e4",
-      "topic": "科技方向",
-      "summary": "部分 KOL 已转向战术性看空科技股，并使用跨资产状态与主题切换框架观察风险是否进一步扩散。",
-      "confidence": "medium"
+      "topic": "交易纪律",
+      "summary": "maitian99 维持 AAPL 空头并在上涨时加仓，同时对失败的 ORCL 短线抄底执行止损；其核心提醒是散户常把运气误判为能力，应优先管理过程与仓位。",
+      "confidence": "high"
     },
     {
       "id": "e5",
-      "topic": "AI 基础设施",
-      "summary": "AI 基础设施安全重新成为关注点，潜在影响包括更严格的治理要求、资本开支优先级变化与估值风险溢价上升。",
-      "confidence": "low"
+      "topic": "国防科技",
+      "summary": "Bill Ackman 对 Anduril 自主旋翼机及美国国防科技能力表达明确正面态度，但单条转发不足以推断持仓或投资行动。",
+      "confidence": "high"
     }
   ],
   "accounts": [
     {
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
-      "lastActiveAt": "2026-07-20T08:45:01.000Z",
-      "activityCount": 22,
+      "lastActiveAt": "2026-07-21T12:22:32.000Z",
+      "activityCount": 41,
       "stance": "mixed",
-      "headline": "风险判断多空交织：一边警惕波动与尾部冲击，一边认为流动性变化可能带来阶段性支撑。",
+      "headline": "半导体内部偏多提价链、CPU 与战术性存储反弹，同时继续警惕去杠杆对高叙事、高 beta 标的的伤害。",
       "summaries": [
         {
           "id": "sh-1",
-          "summary": "近期表述继续指向波动上升和尾部风险，需要警惕市场情绪最亢奋时出现流动性冲击。",
-          "topics": ["volatility", "risk"],
-          "stance": "bearish",
+          "postedAt": "2026-07-21T12:22:32.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2079542539246571741",
+          "summary": "延续 TSMC 涨价讨论，以“水涨船高”表达半导体产业链价格可能联动上升；但 2027 年提价幅度仍需核验原始报道。",
+          "topics": ["semiconductor", "pricing", "TSMC"],
+          "stance": "bullish",
           "confidence": "medium"
         },
         {
           "id": "sh-2",
-          "summary": "同时认为银行流动性与监管环境的变化尚未被充分计价，可能对风险资产形成阶段性支撑。",
-          "topics": ["liquidity", "policy"],
+          "postedAt": "2026-07-21T11:14:30.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2079525421868298571",
+          "summary": "点名 INTC 适合长期持续关注，但原帖带明显调侃“喊单人设”的语气，不能直接当作高确信度买入建议。",
+          "topics": ["INTC", "CPU", "positioning"],
           "stance": "bullish",
           "confidence": "low"
         },
         {
           "id": "sh-3",
-          "summary": "关注个股与指数之间的相关性变化，反映其更重视市场内部结构而非单一方向判断。",
-          "topics": ["volatility", "risk"],
-          "stance": "neutral",
+          "postedAt": "2026-07-21T10:55:53.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2079520733169131794",
+          "summary": "把存储抄底定义为有持有期的战术交易：短线更看筹码、偏度和去杠杆状态，并点名 SNDK 及“偏度已经反转”的标的。",
+          "topics": ["SNDK", "memory", "skew", "deleveraging"],
+          "stance": "bullish",
+          "confidence": "high"
+        },
+        {
+          "id": "sh-4",
+          "postedAt": "2026-07-21T10:43:53.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2079517715665158182",
+          "summary": "判断去杠杆阶段中，基本面和估值更多依赖模糊叙事的股票会跌得更深，继续警惕高杠杆、高 beta 风险。",
+          "topics": ["deleveraging", "high beta", "risk"],
+          "stance": "bearish",
+          "confidence": "medium"
+        },
+        {
+          "id": "sh-5",
+          "postedAt": "2026-07-21T10:37:29.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2079516105203396940",
+          "summary": "认为 CPU 周期启动较晚，因此在当前半导体细分中相对更好；该判断仍需订单、价格与库存数据确认。",
+          "topics": ["CPU", "semiconductor", "cycle"],
+          "stance": "bullish",
           "confidence": "medium"
         }
       ]
@@ -79,31 +103,267 @@
     {
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
-      "lastActiveAt": "2026-07-20T04:44:25.000Z",
-      "activityCount": 28,
+      "lastActiveAt": "2026-07-21T11:30:50.000Z",
+      "activityCount": 57,
       "stance": "bearish",
-      "headline": "整体偏防御，核心关注信用与杠杆风险，等待去杠杆更充分后再评估新的风险资产买点。",
+      "headline": "当前仍拒绝抄底，认为信用、债务与流动性风险尚未充分释放；短期波动可能被负 Gamma 放大。",
       "summaries": [
         {
           "id": "bb-1",
-          "summary": "核心框架仍是信用裂缝与杠杆风险已经扩大，但尚未完全传导到主要市场价格。",
-          "topics": ["credit", "risk"],
-          "stance": "bearish",
+          "postedAt": "2026-07-21T11:30:50.000Z",
+          "url": "https://x.com/BabybusFL/status/2079529529383489849",
+          "summary": "认可“负 Gamma 窗口将放大短期波动、当前属于牛市正常回撤而非熊市开端”的技术分析；具体 Gamma 状态需用同一时间与标的数据核验。",
+          "topics": ["gamma", "volatility", "market regime"],
+          "stance": "mixed",
           "confidence": "medium"
         },
         {
           "id": "bb-2",
-          "summary": "当前立场偏防御，倾向等待去杠杆迹象更充分后再评估新的风险资产买点。",
-          "topics": ["liquidity", "risk"],
+          "postedAt": "2026-07-21T03:21:41.000Z",
+          "url": "https://x.com/BabybusFL/status/2079406433347531136",
+          "summary": "明确表示市场离其买入标准仍很远，并结合此前“饿死不做多”的表态维持空仓等待。",
+          "topics": ["dip buying", "positioning", "risk"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "bb-3",
+          "postedAt": "2026-07-20T22:38:42.000Z",
+          "url": "https://x.com/BabybusFL/status/2079335216577962254",
+          "summary": "转发 Bill Dudley 关于秋季加息压力可能增强的判断，将其作为流动性和久期资产的宏观风险提示；前官员观点不代表 FOMC 决策。",
+          "topics": ["Fed", "rates", "inflation", "liquidity"],
           "stance": "bearish",
           "confidence": "medium"
         },
         {
-          "id": "bb-3",
-          "summary": "重点观察亚洲市场融资活动与高波动板块，作为判断风险是否扩散的辅助信号。",
-          "topics": ["semiconductor", "liquidity"],
+          "id": "bb-4",
+          "postedAt": "2026-07-20T19:22:06.000Z",
+          "url": "https://x.com/BabybusFL/status/2079285740093989353",
+          "summary": "区分 SOXX 当前由杠杆去化驱动的回撤与下一阶段 JNK/债务风险，并认为信用问题恶化后会拖累全市场；这是待市场数据验证的假设。",
+          "topics": ["SOXX", "JNK", "credit", "deleveraging"],
           "stance": "bearish",
-          "confidence": "low"
+          "confidence": "high"
+        },
+        {
+          "id": "bb-5",
+          "postedAt": "2026-07-20T18:36:19.000Z",
+          "url": "https://x.com/BabybusFL/status/2079274220127711630",
+          "summary": "自述已止盈并清掉 BTC 左侧抄底仓位，准备等待价格跌至其“5.5 seasonal line”以下再重新评估。",
+          "topics": ["BTC", "profit taking", "seasonality"],
+          "stance": "bearish",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "Corsica267",
+      "profileUrl": "https://x.com/Corsica267",
+      "lastActiveAt": "2026-07-21T08:55:13.000Z",
+      "activityCount": 28,
+      "stance": "mixed",
+      "headline": "偏多金属与能源、谨慎科技长久期资产；QRA 供给结构与实际利率决定债券和现金牛资产的下一步。",
+      "summaries": [
+        {
+          "id": "co-1",
+          "postedAt": "2026-07-21T08:32:27.000Z",
+          "url": "https://x.com/Corsica267/status/2079484639425839173",
+          "summary": "强调“再通胀”指市场交易状态而非经济基本面；当名义增长快于真实利率增长时形成窗口，并判断金属在再通胀与滞胀/软着陆交集中的确定性最高。",
+          "topics": ["reflation", "metals", "real rates"],
+          "stance": "bullish",
+          "confidence": "high"
+        },
+        {
+          "id": "co-2",
+          "postedAt": "2026-07-21T05:45:55.000Z",
+          "url": "https://x.com/Corsica267/status/2079442730921726363",
+          "summary": "认为 8/5 QRA 较大概率增加短端、减少长端供给，策略上偏多长久期债券和现金牛；油价与通胀补偿再升是关键反例。",
+          "topics": ["QRA", "Treasury", "duration", "liquidity"],
+          "stance": "bullish",
+          "confidence": "medium"
+        },
+        {
+          "id": "co-3",
+          "postedAt": "2026-07-21T05:24:22.000Z",
+          "url": "https://x.com/Corsica267/status/2079437304825823627",
+          "summary": "将状态概括为“月度再通胀、周度滞胀、日度贴现率冲击”：商品能源相对占优，而科技股长久期估值会被实际利率反复冲击。",
+          "topics": ["stagflation", "oil", "technology", "rates"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
+          "id": "co-4",
+          "postedAt": "2026-07-20T23:03:10.000Z",
+          "url": "https://x.com/Corsica267/status/2079341372755308735",
+          "summary": "短端利率交易先偏空债券、待收益率进一步上升后再转买短债；原帖自称“半开玩笑”，后续实际选择等待周三夜盘。",
+          "topics": ["Treasury futures", "short-term bonds", "rates"],
+          "stance": "mixed",
+          "confidence": "medium"
+        },
+        {
+          "id": "co-5",
+          "postedAt": "2026-07-20T19:10:53.000Z",
+          "url": "https://x.com/Corsica267/status/2079282917566779676",
+          "summary": "认为企业 IG 发债可能对国债市场产生“软挤出”，应以 DV01 而非名义发行量衡量供给压力；其 0.4 至近 0.6 的比例主张需核验。",
+          "topics": ["DV01", "investment grade", "Treasury supply"],
+          "stance": "bearish",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "NullOreo_",
+      "profileUrl": "https://x.com/NullOreo_",
+      "lastActiveAt": "2026-07-21T08:16:33.000Z",
+      "activityCount": 4,
+      "stance": "mixed",
+      "headline": "偏多美股跟随亚洲市场反弹，但对半导体和机构集中上调目标价保持逆向谨慎。",
+      "summaries": [
+        {
+          "id": "no-1",
+          "postedAt": "2026-07-21T08:06:19.000Z",
+          "url": "https://x.com/NullOreo_/status/2079478061670826118",
+          "summary": "认为 A 股与韩股反弹后，美股大概率也会跟随修复；跨市场联动仍需用同一观察窗口的指数表现验证。",
+          "topics": ["US equities", "China", "Korea", "rebound"],
+          "stance": "bullish",
+          "confidence": "high"
+        },
+        {
+          "id": "no-2",
+          "postedAt": "2026-07-21T08:06:19.000Z",
+          "url": "https://x.com/NullOreo_/status/2079478061670826118",
+          "summary": "提出机构可能在出货时上调目标价、出货后制造加息/FUD、恐慌后重新吸筹；这是强因果叙事，现有证据不足。",
+          "topics": ["institutional flows", "target prices", "FUD"],
+          "stance": "neutral",
+          "confidence": "medium"
+        },
+        {
+          "id": "no-3",
+          "postedAt": "2026-07-21T08:06:19.000Z",
+          "url": "https://x.com/NullOreo_/status/2079478061670826118",
+          "summary": "基于高盛 3/31 的 13F 与近期机构集中上调目标价，对半导体转为谨慎偏空；具体持仓变化与覆盖范围需独立核验。",
+          "topics": ["semiconductor", "Goldman Sachs", "13F"],
+          "stance": "bearish",
+          "confidence": "medium"
+        },
+        {
+          "id": "no-4",
+          "postedAt": "2026-07-20T13:15:20.000Z",
+          "url": "https://x.com/NullOreo_/status/2079193439414157649",
+          "summary": "试用 Kimi 编写前端时任务中断，并推测服务器并发过高；原因尚未得到独立确认。",
+          "topics": ["Kimi", "AI coding", "reliability"],
+          "stance": "neutral",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "labubu_trader",
+      "profileUrl": "https://x.com/labubu_trader",
+      "lastActiveAt": "2026-07-21T07:02:29.000Z",
+      "activityCount": 5,
+      "stance": "mixed",
+      "headline": "内存与半导体的基本面多空论据都强，但仓位高度拥挤；核心争议是内存能否从周期估值切换为成长估值。",
+      "summaries": [
+        {
+          "id": "la-1",
+          "postedAt": "2026-07-21T07:02:29.000Z",
+          "url": "https://x.com/labubu_trader/status/2079461999616970914",
+          "summary": "否定把基金经理简单视为“愚蠢”以及所谓 tokenmaxing 叙事，但上文语境未完整收录，不宜进一步推断具体标的。",
+          "topics": ["fund managers", "market narrative"],
+          "stance": "neutral",
+          "confidence": "medium"
+        },
+        {
+          "id": "la-2",
+          "postedAt": "2026-07-21T01:24:41.000Z",
+          "url": "https://x.com/labubu_trader/status/2079376989681549691",
+          "summary": "认为内存股最核心的争论不是短期价格，而是估值框架应继续按周期股，还是转向成长股。",
+          "topics": ["memory", "valuation", "cycle", "growth"],
+          "stance": "neutral",
+          "confidence": "high"
+        },
+        {
+          "id": "la-3",
+          "postedAt": "2026-07-21T01:12:55.000Z",
+          "url": "https://x.com/labubu_trader/status/2079374027823501415",
+          "summary": "判断多数参与者仍在激进做多，当前恐慌更多来自仓位拥挤而非普遍撤退，隐含短期去杠杆风险。",
+          "topics": ["crowding", "positioning", "deleveraging"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "la-4",
+          "postedAt": "2026-07-21T01:04:29.000Z",
+          "url": "https://x.com/labubu_trader/status/2079371902678708684",
+          "summary": "调研显示上海基金极度做多内存、香港多空分化、美国长线资金等待估值切换证据、宏观基金已离场；其本人并列多空论据，没有给出单向结论。",
+          "topics": ["DRAM", "semiconductor", "regional positioning", "AI capex"],
+          "stance": "mixed",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "maitian99",
+      "profileUrl": "https://x.com/maitian99",
+      "lastActiveAt": "2026-07-20T22:36:33.000Z",
+      "activityCount": 11,
+      "stance": "bearish",
+      "headline": "维持 AAPL 空头并强调交易纪律；ORCL 抄底失败后止损，同时提示贸易政策带来的宏观扰动。",
+      "summaries": [
+        {
+          "id": "ma-1",
+          "postedAt": "2026-07-20T22:36:33.000Z",
+          "url": "https://x.com/maitian99/status/2079334676871749759",
+          "summary": "称特朗普再次对部分加拿大商品征收 50% 关税，并对贸易报复升级表达批评；税率、范围和官员原话需核对正式来源。",
+          "topics": ["tariffs", "Canada", "trade policy"],
+          "stance": "bearish",
+          "confidence": "medium"
+        },
+        {
+          "id": "ma-2",
+          "postedAt": "2026-07-20T17:17:09.000Z",
+          "url": "https://x.com/maitian99/status/2079254294658695567",
+          "summary": "认为散户会把盈利归因于能力、系统性低估运气；好运可能持续一两年后突然消失，因此应重视过程与纪律。",
+          "topics": ["trading psychology", "luck", "risk management"],
+          "stance": "neutral",
+          "confidence": "high"
+        },
+        {
+          "id": "ma-3",
+          "postedAt": "2026-07-20T17:04:29.000Z",
+          "url": "https://x.com/maitian99/status/2079251106622800158",
+          "summary": "重申偏空 AAPL，并称苹果上涨时选择加仓空单；仓位与历史胜率均为本人陈述，无法由页面数据独立验证。",
+          "topics": ["AAPL", "short", "positioning"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "ma-4",
+          "postedAt": "2026-07-20T14:21:01.000Z",
+          "url": "https://x.com/maitian99/status/2079209972211110055",
+          "summary": "ORCL 短线抄底失败后开盘止损，主要仓位仍为 AAPL 空单，并以“戒急用忍”概括当前交易管理。",
+          "topics": ["ORCL", "AAPL", "stop loss", "trade management"],
+          "stance": "bearish",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "BillAckman",
+      "profileUrl": "https://x.com/BillAckman",
+      "lastActiveAt": "2026-07-20T12:55:09.000Z",
+      "activityCount": 1,
+      "stance": "bullish",
+      "headline": "对 Anduril 自主旋翼机与美国国防科技能力表达明确正面态度，但没有给出投资或持仓信号。",
+      "summaries": [
+        {
+          "id": "ba-1",
+          "postedAt": "2026-07-20T12:55:09.000Z",
+          "url": "https://x.com/BillAckman/status/2079188361596805611",
+          "summary": "转发 Anduril “Thunder”自主攻击旋翼机内容并称其“非常酷”，赞赏美国拥有这类国防科技公司；不能据此推断持仓或投资意向。",
+          "topics": ["Anduril", "defense tech", "autonomous systems"],
+          "stance": "bullish",
+          "confidence": "high"
         }
       ]
     },
@@ -113,148 +373,42 @@
       "lastActiveAt": null,
       "activityCount": 0,
       "stance": "unclear",
-      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
+      "headline": "本轮未观察到过去 24 小时的可见更新；这表示采集结果为空，不等同于确认账号没有发帖。",
       "summaries": [
         {
           "id": "fr-1",
-          "summary": "过去 24 小时未观察到可形成市场结论的新增公开观点。",
-          "topics": ["risk"],
+          "summary": "本轮采集未观察到可形成市场结论的新增公开内容，建议后续继续检查页面覆盖是否完整。",
+          "topics": ["coverage"],
           "stance": "unclear",
           "confidence": "high"
-        }
-      ]
-    },
-    {
-      "handle": "labubu_trader",
-      "profileUrl": "https://x.com/labubu_trader",
-      "lastActiveAt": null,
-      "activityCount": 0,
-      "stance": "unclear",
-      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
-      "summaries": [
-        {
-          "id": "la-1",
-          "summary": "过去 24 小时未观察到可形成市场结论的新增公开观点。",
-          "topics": ["risk"],
-          "stance": "unclear",
-          "confidence": "high"
-        }
-      ]
-    },
-    {
-      "handle": "Corsica267",
-      "profileUrl": "https://x.com/Corsica267",
-      "lastActiveAt": "2026-07-20T10:28:04.000Z",
-      "activityCount": 15,
-      "stance": "bearish",
-      "headline": "跨资产框架转向风险监测，当前对科技股持战术性偏空立场。",
-      "summaries": [
-        {
-          "id": "co-1",
-          "summary": "更新了跨资产市场状态观察框架，更强调风险共振、主题切换和异常状态识别。",
-          "topics": ["macro", "risk", "volatility"],
-          "stance": "neutral",
-          "confidence": "medium"
-        },
-        {
-          "id": "co-2",
-          "summary": "当前对科技股持战术性偏空立场，但仍需用价格、成交与流动性数据确认其持续性。",
-          "topics": ["technology", "risk"],
-          "stance": "bearish",
-          "confidence": "high"
-        }
-      ]
-    },
-    {
-      "handle": "NullOreo_",
-      "profileUrl": "https://x.com/NullOreo_",
-      "lastActiveAt": null,
-      "activityCount": 0,
-      "stance": "unclear",
-      "headline": "过去 24 小时未观察到可形成市场结论的新增观点。",
-      "summaries": [
-        {
-          "id": "no-1",
-          "summary": "过去 24 小时未观察到可形成市场结论的新增公开观点。",
-          "topics": ["risk"],
-          "stance": "unclear",
-          "confidence": "high"
-        }
-      ]
-    },
-    {
-      "handle": "maitian99",
-      "profileUrl": "https://x.com/maitian99",
-      "lastActiveAt": "2026-07-20T04:06:34.000Z",
-      "activityCount": 14,
-      "stance": "bearish",
-      "headline": "质疑高科技板块边际买盘质量与相对表现的可持续性，风险判断整体偏谨慎。",
-      "summaries": [
-        {
-          "id": "ma-1",
-          "summary": "认为近期半导体边际买盘可能更多来自杠杆型交易资金，而非长期主动资金，因此拥挤度值得警惕。",
-          "topics": ["semiconductor", "liquidity"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-2",
-          "summary": "用大型科技公司相对大盘的历史偏离，质疑当前相对表现与盈利预期的可持续性。",
-          "topics": ["technology", "risk"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-3",
-          "summary": "宏观层面关注政策不确定性对通胀、增长与软着陆路径的扰动。",
-          "topics": ["macro", "policy"],
-          "stance": "neutral",
-          "confidence": "low"
-        }
-      ]
-    },
-    {
-      "handle": "BillAckman",
-      "profileUrl": "https://x.com/BillAckman",
-      "lastActiveAt": "2026-07-19T17:01:52.000Z",
-      "activityCount": 3,
-      "stance": "neutral",
-      "headline": "重点关注 AI 基础设施安全及其潜在治理与监管影响。",
-      "summaries": [
-        {
-          "id": "ba-1",
-          "summary": "关注自主 AI 系统的基础设施安全风险；相关事件与影响尚需独立核验，暂作为治理和监管观察项。",
-          "topics": ["ai", "risk", "policy"],
-          "stance": "neutral",
-          "confidence": "low"
         }
       ]
     }
   ],
   "watchItems": [
     {
-      "topic": "波动与信用",
-      "summary": "观察波动率与信用风险是否同步抬升，以及风险信号能否从观点层面转化为可验证的市场价格变化。"
+      "topic": "信用与 Gamma",
+      "summary": "核对 JNK、OAS、信用利差与指数 Gamma 的同步变化，验证“高 beta 去杠杆后、信用风险接棒”的路径。"
     },
     {
-      "topic": "半导体与存储",
-      "summary": "关注半导体、存储与 AI 硬件板块是否出现成交放大、相关性上升和被动去杠杆迹象。"
+      "topic": "半导体拥挤度",
+      "summary": "同时跟踪 TSMC 提价、内存现货与合约价、利润率、ETF/杠杆仓位，区分基本面上修与拥挤交易反弹。"
     },
     {
-      "topic": "融资活动",
-      "summary": "跟踪亚洲主要市场融资活动是否继续恶化，以验证杠杆资金主导边际定价的判断。"
+      "topic": "QRA 与实际利率",
+      "summary": "关注 8/5 QRA 的期限结构、长端供给、实际利率与通胀补偿，确认长久期债券和现金牛资产是否真正受益。"
     },
     {
-      "topic": "流动性支持",
-      "summary": "评估金融条件变化是否真正改善市场流动性，并形成足以抵消风险收缩的阶段性支撑。"
+      "topic": "商品确认信号",
+      "summary": "比较油价、铜价和 breakeven 的方向：油强铜弱更接近滞胀，铜走强且名义利率回落更接近软着陆。"
     },
     {
-      "topic": "跨资产共振",
-      "summary": "检查美元、利率、信用与权益是否出现同向压力，判断局部调整是否正在升级为跨资产风险。"
+      "topic": "AAPL 空头风险",
+      "summary": "跟踪 AAPL 相对 SPY 的极端偏离、盈利预期与价格反转，避免把个人历史胜率当作可验证的当前优势。"
     },
     {
-      "topic": "AI 治理",
-      "summary": "继续核验 AI 基础设施安全事件及其对监管、资本开支和市场风险溢价的实际影响。"
+      "topic": "来源核验",
+      "summary": "重点核验关税、TSMC 提价、基金仓位、13F、QRA 与利率数据；页面观点与转述不应直接当作事实。"
     }
   ]
 }

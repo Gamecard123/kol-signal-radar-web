@@ -44,6 +44,11 @@ const dateFormatter = new Intl.DateTimeFormat("zh-CN", {
   hourCycle: "h23",
 });
 
+const timeZoneFormatter = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/New_York",
+  timeZoneName: "short",
+});
+
 function create(tagName, className, text) {
   const node = document.createElement(tagName);
   if (className) node.className = className;
@@ -55,7 +60,10 @@ function formatTime(value) {
   if (!value) return "本轮无新增";
   const date = new Date(value);
   if (Number.isNaN(date.getTime())) return "时间待核验";
-  return `${dateFormatter.format(date)} ET`;
+  const zone = timeZoneFormatter
+    .formatToParts(date)
+    .find((part) => part.type === "timeZoneName")?.value || "ET";
+  return `${dateFormatter.format(date)} ${zone}`;
 }
 
 function setLoading(isLoading) {
@@ -158,13 +166,19 @@ function summaryMatches(summary, query) {
 
 function renderAccounts() {
   const query = state.query.trim().toLocaleLowerCase();
-  const accounts = state.data.accounts.filter((account) => {
-    const selected = state.activeHandle === "all" || state.activeHandle === account.handle;
-    const matched = !query
-      || account.handle.toLocaleLowerCase().includes(query)
-      || account.summaries.some((summary) => summaryMatches(summary, query));
-    return selected && matched;
-  });
+  const accounts = [...state.data.accounts]
+    .sort((left, right) => {
+      const leftTime = left.lastActiveAt ? new Date(left.lastActiveAt).getTime() : 0;
+      const rightTime = right.lastActiveAt ? new Date(right.lastActiveAt).getTime() : 0;
+      return rightTime - leftTime;
+    })
+    .filter((account) => {
+      const selected = state.activeHandle === "all" || state.activeHandle === account.handle;
+      const matched = !query
+        || account.handle.toLocaleLowerCase().includes(query)
+        || account.summaries.some((summary) => summaryMatches(summary, query));
+      return selected && matched;
+    });
 
   elements.accountGrid.replaceChildren();
   accounts.forEach((account) => {
@@ -202,16 +216,31 @@ function renderAccounts() {
 
     const updates = create("div", "updates-block");
     updates.append(create("p", "card-label", "最新观点摘要"));
-    account.summaries.forEach((summary) => {
-      const row = create("div", "summary-row");
-      const meta = create("div", "summary-row-meta");
-      meta.append(
-        create("span", `stance-${summary.stance}`, stanceLabels[summary.stance] || "方向不明"),
-        create("time", "", "本轮观察"),
-      );
-      row.append(meta, create("p", "", summary.summary));
-      updates.append(row);
-    });
+    [...account.summaries]
+      .sort((left, right) => {
+        const leftTime = left.postedAt ? new Date(left.postedAt).getTime() : 0;
+        const rightTime = right.postedAt ? new Date(right.postedAt).getTime() : 0;
+        return rightTime - leftTime;
+      })
+      .forEach((summary) => {
+        const row = create("div", "summary-row");
+        const meta = create("div", "summary-row-meta");
+        const time = create("time", "", summary.postedAt ? formatTime(summary.postedAt) : "本轮观察");
+        if (summary.postedAt) time.dateTime = summary.postedAt;
+        meta.append(
+          create("span", `stance-${summary.stance}`, stanceLabels[summary.stance] || "方向不明"),
+          time,
+        );
+        if (summary.url) {
+          const source = create("a", "summary-source", "原帖 ↗");
+          source.href = summary.url;
+          source.target = "_blank";
+          source.rel = "noopener noreferrer";
+          meta.append(source);
+        }
+        row.append(meta, create("p", "", summary.summary));
+        updates.append(row);
+      });
     card.append(header, metrics, block, updates);
     elements.accountGrid.append(card);
   });

@@ -1,165 +1,147 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-24T13:10:50.000Z",
+  "generatedAt": "2026-07-27T09:49:42.000Z",
   "hours": 24,
   "window": {
-    "start": "2026-07-23T13:06:26.000Z",
-    "end": "2026-07-24T13:06:26.000Z",
+    "start": "2026-07-26T09:44:01.889Z",
+    "end": "2026-07-27T09:44:01.889Z",
     "timezone": "America/New_York"
   },
   "stats": {
     "monitoredAccounts": 8,
     "activeAccounts": 6,
-    "summaryItems": 25
+    "summaryItems": 19
   },
   "executiveSummary": [
     {
       "id": "e1",
-      "topic": "强财报、弱价格：风险偏好仍差",
-      "summary": "ShanghaoJin 称 INTC 收入、利润率和 18A 良率均超预期，但资本开支与现金流担忧仍压制股价；BabybusFL 把盘前约 3% 的反应视为半导体多头失语。两人都认为当前市场首先惩罚“花钱”，而不是奖励经营改善。",
+      "topic": "FOMC 前主动降方向暴露",
+      "summary": "labubu_trader 已将周五盘后买入的 SOXL 全部止盈，等待周三后再决定多空；BabybusFL 虽继续提示信用、广度和杠杆风险，却明确不再大举做空；Franktradinglog 也把押注 7 月不加息形容成接近博彩。共同执行信号是先降方向仓、等待事件确认。",
       "confidence": "high"
     },
     {
       "id": "e2",
-      "topic": "长端利率与债市仍是共同尾部风险",
-      "summary": "ShanghaoJin 维持长端利率将继续上行的判断；BabybusFL 后来形容债市已非常暴躁，但窗口前段又明确看好 JNK；Corsica267 则建议不要急于抄底、短期更愿意持有债券。共同风险是折现率、融资和流动性压力，但信用方向并非完全一致。",
-      "confidence": "high"
+      "topic": "信用与市场广度仍偏空",
+      "summary": "BabybusFL 援引垃圾债走弱、新低多于新高、涨跌线接近一年低点、超大规模云厂商债务风险上升及零售动量篮子回撤，维持风险资产偏空判断；相关数据来自帖子转述，本轮未独立核验。",
+      "confidence": "medium"
     },
     {
       "id": "e3",
-      "topic": "能源是本轮最一致的相对多头",
-      "summary": "maitian99 披露近期一直通过 USO 做多原油；Corsica267 在小麦止盈、退出铜企后仍保留油企仓位。两人表达的是相对配置偏好，不等于对大盘转多。",
+      "topic": "AI 长期多头与现金流约束并存",
+      "summary": "ShanghaoJin 继续看好“模型＋算力＋智能体平台＋数据”的长期产业链，同时承认资本市场要等自由现金流改善；Franktradinglog 则主张用日内利润分批投入 NVDA。长期方向偏多，但短期融资、CapEx 与估值约束没有消失。",
       "confidence": "high"
     },
     {
       "id": "e4",
-      "topic": "Tesla 与半导体以战术交易为主",
-      "summary": "BabybusFL 在整体看空市场的同时，用 TSLL 价格区间和布林通道规划小额 Tesla 短线，并等待更低价买 INTC；maitian99 则用 ARKK 代理做空 Tesla，并澄清旧 AMD 空头早已止盈。当前更像短线博弈，而非稳定的板块共识。",
+      "topic": "SOXL 同时是机会与风险样本",
+      "summary": "labubu_trader 披露 SOXL 从 137 美元买入、148 美元卖出；BabybusFL 则反复警告杠杆半导体 ETF 即使腰斩也未必便宜。两者并不矛盾：前者是短线反弹交易，后者警告把短线工具当成长期抄底标的。",
       "confidence": "high"
     },
     {
       "id": "e5",
-      "topic": "Google AI 变现：长期看多、短期爬坡",
-      "summary": "labubu_trader 认为 AI Search 能把原本不可变现的查询转成广告库存、并降低小企业投放门槛；但新生态最初几个季度可能对广告收入中性甚至负面，需要持续提升 CTR、CVR 与用户教育。",
-      "confidence": "high"
+      "topic": "房利美与房地美出现直接多头信号",
+      "summary": "Bill Ackman 明确表示看多 Fannie Mae 与 Freddie Mac，依据是其转发的法律分析认为 D.C. Circuit 维持判决后 SPS 转换基础受损；但帖子没有给出完整判决链条，应视为投资者法律判断，而不是已经确认的最终处置结果。",
+      "confidence": "medium"
     }
   ],
   "accounts": [
     {
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
-      "lastActiveAt": "2026-07-24T12:47:05.311Z",
-      "activityCount": 57,
-      "stance": "mixed",
-      "headline": "长期看好 INTC 的代工与潜在存储布局，但认为资本开支、负自由现金流和长端利率上行会继续压制科技股估值；同时希望存储价格回落以释放下游利润。",
+      "lastActiveAt": "2026-07-27T09:30:38.000Z",
+      "activityCount": 4,
+      "stance": "bullish",
+      "headline": "长期继续看好 AI 新生产力和硬件需求扩散，认为技术投资的高回报最终会吸收传统产业资源；同时承认资本市场因 CapEx 受创，短期仍要看到自由现金流改善才会重新定价。",
       "summaries": [
         {
           "id": "sh-1",
-          "postedAt": "2026-07-24T12:41:22.159Z",
-          "url": "https://x.com/ShanghaoJin/status/2080634442885018028",
-          "summary": "从 INTC 财报提到其存储历史、Terrafab 先做存储出发，推测 Intel 可能重新强化存储布局，并希望引入韩国资本；这是作者的战略联想，不是公司已公布的投资安排。",
-          "topics": ["INTC", "memory", "Terrafab", "Korea capital"],
+          "postedAt": "2026-07-27T09:30:38.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2081673607080808574",
+          "summary": "在关于 AI 产业链、CapEx 与自由现金流的讨论后再次表示“未来还是美好的”，延续长期乐观立场；没有补充估值、现金流改善时间或具体仓位条件。",
+          "topics": ["AI", "long-termism", "free cash flow"],
           "stance": "bullish",
           "confidence": "medium"
         },
         {
           "id": "sh-2",
-          "postedAt": "2026-07-24T07:35:32.905Z",
-          "url": "https://x.com/ShanghaoJin/status/2080557480535523785",
-          "summary": "质疑市场可给回购型公司约 35 倍 PE，却只愿给强调 AI 增长的公司约 15 倍；反映其认为当前估值体系对 AI 投资与增长过度苛刻。",
-          "topics": ["AI valuation", "PE", "buybacks", "growth"],
-          "stance": "bullish",
-          "confidence": "medium"
+          "postedAt": "2026-07-27T09:21:19.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2081671263307854196",
+          "summary": "提出“模型＋算力＋智能体平台＋数据”的 AI 产业链框架；承认资本因高 CapEx 受创、需要看到 FCF 改善，但认为新生产力的长期回报会推动产业资源重新配置。",
+          "topics": ["AI infrastructure", "CapEx", "FCF", "agentic platform"],
+          "stance": "mixed",
+          "confidence": "high"
         },
         {
           "id": "sh-3",
-          "postedAt": "2026-07-24T06:39:45.920Z",
-          "url": "https://x.com/ShanghaoJin/status/2080543442262954089",
-          "summary": "主张存储价格需要先被压低，才能让云厂、消费电子、芯片设计和晶圆厂恢复利润空间；方向上偏空存储定价、偏多下游需求和利润修复。",
-          "topics": ["memory pricing", "cloud", "consumer electronics", "foundry"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "sh-4",
-          "postedAt": "2026-07-24T03:35:38.305Z",
-          "url": "https://x.com/ShanghaoJin/status/2080497105207206157",
-          "summary": "认为 INTC 达到 1 万亿美元市值是“必然”，2 万亿美元则取决于产业联盟和资本协同；同时承认短期市场并不按这套长期逻辑定价。",
-          "topics": ["INTC", "market cap", "foundry", "strategic alliances"],
+          "postedAt": "2026-07-27T09:06:52.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2081667626607210628",
+          "summary": "把太阳诱电据称自 9 月 1 日再次提高 MLCC 价格，解读为涨价从存储向更多电子元件扩散的信号；帖子未附公司正式公告，事实范围仍待核验。",
+          "topics": ["MLCC", "Taiyo Yuden", "component pricing", "memory"],
           "stance": "bullish",
           "confidence": "medium"
-        },
-        {
-          "id": "sh-5",
-          "postedAt": "2026-07-24T01:27:00.833Z",
-          "url": "https://x.com/ShanghaoJin/status/2080464735783534922",
-          "summary": "把 INTC 财报评价为“满分”：收入、利润率、18A 良率和外部客户均改善，但认为只要资本开支上升、自由现金流转负，股价仍会受压；随后将现金流数字自我更正为约 -80 亿美元，数据口径尚未独立核验。",
-          "topics": ["INTC earnings", "18A", "CapEx", "free cash flow"],
-          "stance": "mixed",
-          "confidence": "medium"
-        },
-        {
-          "id": "sh-6",
-          "postedAt": "2026-07-23T17:16:51.637Z",
-          "url": "https://x.com/ShanghaoJin/status/2080341384675066203",
-          "summary": "维持一个月前的利率判断：市场交易利率下行是错误方向；在美联储把定价更多交给市场后，长端利率仍会持续上行。",
-          "topics": ["long-end yields", "Federal Reserve", "FOMC", "discount rate"],
-          "stance": "bearish",
-          "confidence": "high"
         }
       ]
     },
     {
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
-      "lastActiveAt": "2026-07-24T12:41:30.501Z",
-      "activityCount": 45,
+      "lastActiveAt": "2026-07-27T01:34:02.000Z",
+      "activityCount": 20,
       "stance": "mixed",
-      "headline": "整体仍强烈看空市场、债市和半导体短期价格，但开始规划 Tesla/TSLL 小额短线，并等待 INTC 被进一步压低后再买，属于逆势战术仓而非全面转多。",
+      "headline": "市场判断仍偏空，重点担忧垃圾债、市场广度、云厂商债务和杠杆半导体 ETF；但执行上已主动降低空头风险，不愿大举做空油价或指数，等待更清晰的深跌与反转条件。",
       "summaries": [
         {
           "id": "bb-1",
-          "postedAt": "2026-07-24T12:41:30.501Z",
-          "url": "https://x.com/BabybusFL/status/2080634477873639661",
-          "summary": "认为 INTC 财报改善幅度很大，但盘前约 3% 的涨幅几乎等于没有反应；把这种“好财报不涨”解读为半导体多头失去定价权、卖压仍占优势。",
-          "topics": ["INTC", "earnings reaction", "semiconductors", "price action"],
+          "postedAt": "2026-07-27T01:34:02.000Z",
+          "url": "https://x.com/BabybusFL/status/2081553665899319686",
+          "summary": "回应一条设想黄金触底后买入的帖子时称“你不敢买，相信我”，强调真正深跌时执行抄底往往比事前设想困难；没有披露黄金仓位，挤压风险来自被引用帖而非其本人新判断。",
+          "topics": ["gold", "bottom fishing", "short squeeze"],
+          "stance": "mixed",
+          "confidence": "medium"
+        },
+        {
+          "id": "bb-2",
+          "postedAt": "2026-07-27T01:19:34.000Z",
+          "url": "https://x.com/BabybusFL/status/2081550029236396504",
+          "summary": "继续用 SOXL 说明“跌一半不等于便宜”：高位急拉会诱使投资者在下跌途中不断加仓，杠杆产品之后仍可能出现更深回撤；明确反对仅凭跌幅重仓接刀。",
+          "topics": ["SOXL", "leveraged ETF", "falling knife", "semiconductors"],
           "stance": "bearish",
           "confidence": "high"
         },
         {
-          "id": "bb-2",
-          "postedAt": "2026-07-24T10:38:04.819Z",
-          "url": "https://x.com/BabybusFL/status/2080603416192016887",
-          "summary": "明确表示自己尚未买入 INTC、仍在等待；附近帖子给出的理想路径是先让股价在 Foundry 收入兑现前被进一步打低，再为下一季度的改善布局。",
-          "topics": ["INTC", "foundry", "entry timing", "waiting"],
-          "stance": "bullish",
-          "confidence": "high"
-        },
-        {
           "id": "bb-3",
-          "postedAt": "2026-07-24T01:43:58.505Z",
-          "url": "https://x.com/BabybusFL/status/2080469004208992542",
-          "summary": "对 MU 的“便宜”叙事继续保持怀疑，暗示很多抄底者可能把下跌误判成价值机会；没有给出新仓位或明确的回补条件。",
-          "topics": ["MU", "memory", "bottom fishing", "valuation trap"],
+          "postedAt": "2026-07-27T01:06:52.000Z",
+          "url": "https://x.com/BabybusFL/status/2081546830651814372",
+          "summary": "把韩国市场的急涨慢跌、高开低走视为尚未见底的熊市结构，认为真正底部前仍可能再有一次急跌；这是形态判断，没有给出已建立的韩国市场仓位。",
+          "topics": ["KOSPI", "Korea", "market structure", "bottoming"],
           "stance": "bearish",
           "confidence": "medium"
         },
         {
           "id": "bb-4",
-          "postedAt": "2026-07-24T01:37:44.717Z",
-          "url": "https://x.com/BabybusFL/status/2080467436428460383",
-          "summary": "用极端措辞形容债市已非常暴躁，认为资本开支和融资“账单”正在迫使投资者掀桌；但窗口前段又明确表示看好 JNK，说明时点或信用分层很重要，不能概括成全面做空信用。",
-          "topics": ["bond market", "financing", "CapEx", "risk-off"],
+          "postedAt": "2026-07-26T20:07:58.000Z",
+          "url": "https://x.com/BabybusFL/status/2081471609412435985",
+          "summary": "援引零售投资者偏好动量篮子 7 月回撤约 13% 和超大规模云厂商债务风险上升，认为过去数周的风险释放符合其偏空剧本；两项外部数据在本轮未独立核验。",
+          "topics": ["momentum", "hyperscaler debt", "retail traders", "risk-off"],
           "stance": "bearish",
-          "confidence": "high"
+          "confidence": "medium"
         },
         {
           "id": "bb-5",
-          "postedAt": "2026-07-24T00:53:34.000Z",
-          "url": "https://x.com/BabybusFL/status/2080456319417409717",
-          "summary": "给出 Tesla/TSLL 的短线框架：TSLL 约 10 以下视为相对低位，可等待市场见底或卖出 Put，并用多周期布林通道决定止盈；其后说明只投入少量现金，且仍不看好大盘。",
-          "topics": ["TSLA", "TSLL", "sell put", "Bollinger Bands"],
-          "stance": "bullish",
+          "postedAt": "2026-07-26T20:00:01.000Z",
+          "url": "https://x.com/BabybusFL/status/2081469609585066278",
+          "summary": "虽然认为布伦特约 100 美元会因炼化成本和需求承压，但明确表示自己不会做空油价；区分了基本面担忧与实际交易方向。",
+          "topics": ["Brent", "oil", "demand", "shorting"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
+          "id": "bb-6",
+          "postedAt": "2026-07-26T19:31:28.000Z",
+          "url": "https://x.com/BabybusFL/status/2081462424218079597",
+          "summary": "在此前担心空头被挤压并准备处理空仓后，明确表示不会大规模做空市场、将等待机会；方向判断仍偏空，但实际风险暴露已经下降。",
+          "topics": ["market short", "short squeeze", "positioning", "waiting"],
+          "stance": "mixed",
           "confidence": "high"
         }
       ]
@@ -167,54 +149,73 @@
     {
       "handle": "Franktradinglog",
       "profileUrl": "https://x.com/Franktradinglog",
-      "lastActiveAt": null,
-      "activityCount": 0,
-      "stance": "neutral",
-      "headline": "严格 24 小时窗口内没有发现本人新帖或本人回复；旧内容及其新增受众回复未计作本轮 KOL 更新。",
-      "summaries": []
-    },
-    {
-      "handle": "labubu_trader",
-      "profileUrl": "https://x.com/labubu_trader",
-      "lastActiveAt": "2026-07-24T05:40:10.639Z",
-      "activityCount": 6,
-      "stance": "bullish",
-      "headline": "核心观点集中于 Google AI Search 和广告：长期认为 AI 会扩大可变现查询与小企业广告市场，但承认生态迁移初期可能压低广告效率和收入。",
+      "lastActiveAt": "2026-07-27T06:38:58.000Z",
+      "activityCount": 4,
+      "stance": "mixed",
+      "headline": "偏好围绕关键价位做日内双向交易，并把利润分批投入 NVDA；方向上倾向 7 月不加息，却认为用 SOFR 或 ZT 押注单次决议接近博彩，显示长期偏多、事件交易谨慎。",
       "summaries": [
         {
-          "id": "la-1",
-          "postedAt": "2026-07-24T05:19:25.729Z",
-          "url": "https://x.com/labubu_trader/status/2080523224916648279",
-          "summary": "认为生态出现阶跃式变化时，客户教育、模型和相关性迭代会让最初几个季度表现中性甚至负面；仍判断 Google AI 广告会像腾讯短视频商业化一样逐季改善。",
-          "topics": ["GOOG", "AI ads", "product transition", "monetization"],
+          "id": "fr-1",
+          "postedAt": "2026-07-27T06:38:58.000Z",
+          "url": "https://x.com/Franktradinglog/status/2081630407028879397",
+          "summary": "以调侃语气称某仓位“套麻了”，但帖子没有明确资产、成本或处理方式，不能据此推断其本人持仓或市场方向。",
+          "topics": ["positioning", "drawdown", "context missing"],
+          "stance": "unclear",
+          "confidence": "low"
+        },
+        {
+          "id": "fr-2",
+          "postedAt": "2026-07-27T04:21:20.000Z",
+          "url": "https://x.com/Franktradinglog/status/2081595769786974380",
+          "summary": "考虑通过做多 SOFR 或 ZT 押注 7 月不加息，随即把这种二元事件交易比作博彩；方向倾向不加息，但没有披露实际建仓。",
+          "topics": ["FOMC", "SOFR", "ZT", "no hike"],
           "stance": "mixed",
           "confidence": "high"
         },
         {
+          "id": "fr-3",
+          "postedAt": "2026-07-26T17:15:19.000Z",
+          "url": "https://x.com/Franktradinglog/status/2081428160680513934",
+          "summary": "被问及 AVGO 是否达到可定投级别时仅回答“可以”；方向明确偏多，但没有给出估值、买入区间或仓位依据。",
+          "topics": ["AVGO", "DCA", "semiconductors"],
+          "stance": "bullish",
+          "confidence": "low"
+        },
+        {
+          "id": "fr-4",
+          "postedAt": "2026-07-26T16:37:11.000Z",
+          "url": "https://x.com/Franktradinglog/status/2081418563710316588",
+          "summary": "建议围绕关键位做多做空日内交易，再把利润定投 NVDA；认为很多宏观利空叙事只是去杠杆下跌后的事后解释，价格修复后相关噪声会自然减弱。",
+          "topics": ["NVDA", "intraday trading", "DCA", "deleveraging"],
+          "stance": "bullish",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "labubu_trader",
+      "profileUrl": "https://x.com/labubu_trader",
+      "lastActiveAt": "2026-07-27T07:23:59.000Z",
+      "activityCount": 1,
+      "stance": "mixed",
+      "headline": "已完成一次 SOXL 周末反弹交易并全部止盈；认为 NQ 28200 附近仍可能出现假跌破后的快速反转，但选择等待周三事件结束后再决定多空。",
+      "summaries": [
+        {
+          "id": "la-1",
+          "postedAt": "2026-07-27T07:23:59.000Z",
+          "url": "https://x.com/labubu_trader/status/2081641734564659259",
+          "summary": "披露将周五盘后 137 美元买入的 SOXL 在 148 美元全部卖出，按披露价格约为 8% 毛收益；成交、费用和仓位规模没有公开记录可核验。",
+          "topics": ["SOXL", "profit taking", "semiconductors"],
+          "stance": "bullish",
+          "confidence": "medium"
+        },
+        {
           "id": "la-2",
-          "postedAt": "2026-07-24T02:21:18.729Z",
-          "url": "https://x.com/labubu_trader/status/2080478400389743014",
-          "summary": "认为搜索竞争的核心不是单一模型，而是用户基础、流量与留存；OpenAI 要建立大众入口需要更多资本和时间，因此转向企业应用以讲出更适合投资人的故事。",
-          "topics": ["OpenAI", "search", "user distribution", "enterprise AI"],
-          "stance": "bullish",
-          "confidence": "high"
-        },
-        {
-          "id": "la-3",
-          "postedAt": "2026-07-24T02:14:39.106Z",
-          "url": "https://x.com/labubu_trader/status/2080476724249436276",
-          "summary": "广告支出随经济增长、并非零和市场；AI 可降低小企业在素材、定向、投放管理和 A/B 测试上的门槛，因此仍有大量尚未被服务的增量需求。",
-          "topics": ["advertising", "SMB", "AI automation", "GDP"],
-          "stance": "bullish",
-          "confidence": "high"
-        },
-        {
-          "id": "la-4",
-          "postedAt": "2026-07-24T01:59:20.121Z",
-          "url": "https://x.com/labubu_trader/status/2080472869746999745",
-          "summary": "判断 Google 正借 AI Search 把过去无法放广告的查询变成可变现库存；方向正确，但 CTR、CVR 和广告匹配质量仍需时间追上传统搜索。",
-          "topics": ["Google Search", "AI monetization", "CTR", "CVR"],
-          "stance": "bullish",
+          "postedAt": "2026-07-27T07:23:59.000Z",
+          "url": "https://x.com/labubu_trader/status/2081641734564659259",
+          "summary": "认为 NQ 在 28200 附近可能先假跌破再快速反转，形成 Wyckoff 吸筹；通过引用自己此前的情绪、仓位、广度与利率框架说明判断背景，但当前可执行动作仍是周三后再选方向。",
+          "topics": ["NQ", "Wyckoff", "FOMC", "US10Y", "sentiment"],
+          "stance": "mixed",
           "confidence": "high"
         }
       ]
@@ -222,48 +223,11 @@
     {
       "handle": "Corsica267",
       "profileUrl": "https://x.com/Corsica267",
-      "lastActiveAt": "2026-07-24T06:25:43.371Z",
-      "activityCount": 11,
-      "stance": "mixed",
-      "headline": "短线继续防范折现率与流动性冲击，建议不要急于抄底；仓位上小麦止盈、退出铜企但保留油企，同时把交易框架升级为带失效条件和事件静默窗的 NQ 状态机。",
-      "summaries": [
-        {
-          "id": "co-1",
-          "postedAt": "2026-07-23T21:50:20.562Z",
-          "url": "https://x.com/Corsica267/status/2080410208694907145",
-          "summary": "发布 NQ 动因状态机 V3：按主题和板块价格给多空力量打分，监控股债背离与市场广度，并为每种状态定义失效条件、历史履历及 CPI、FOMC、非农和大厂财报的事件静默窗。",
-          "topics": ["NQ", "state machine", "breadth", "event risk"],
-          "stance": "neutral",
-          "confidence": "high"
-        },
-        {
-          "id": "co-2",
-          "postedAt": "2026-07-23T20:54:15.025Z",
-          "url": "https://x.com/Corsica267/status/2080396092609536192",
-          "summary": "披露当日小麦止盈、铜企因利润回撤退出、油企继续持有；同时把财报主线概括为利润继续向硬件端转移。",
-          "topics": ["wheat", "copper miners", "oil companies", "hardware earnings"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "co-3",
-          "postedAt": "2026-07-23T14:56:03.662Z",
-          "url": "https://x.com/Corsica267/status/2080305951299772675",
-          "summary": "把盘面概括为折现率冲击和再通胀交易来回切换，说明其仍未把当前环境归入单一宏观状态。",
-          "topics": ["discount rate", "reflation", "regime switching"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "co-4",
-          "postedAt": "2026-07-23T14:46:03.165Z",
-          "url": "https://x.com/Corsica267/status/2080303432632803810",
-          "summary": "提醒抄底者不要着急，判断下周一、二仍可能下跌；短期更愿意买债并降低操作频率，属于明确的战术风险规避。",
-          "topics": ["dip buying", "bonds", "liquidity", "risk management"],
-          "stance": "bearish",
-          "confidence": "high"
-        }
-      ]
+      "lastActiveAt": null,
+      "activityCount": 0,
+      "stance": "neutral",
+      "headline": "本次专用 Chrome 窗口已检查其 with_replies 页面；严格 24 小时窗口内没有发现可见的本人新帖或本人回复。",
+      "summaries": []
     },
     {
       "handle": "NullOreo_",
@@ -271,78 +235,60 @@
       "lastActiveAt": null,
       "activityCount": 0,
       "stance": "neutral",
-      "headline": "严格 24 小时窗口内没有发现本人新帖或本人回复；上一轮关于低杠杆与长期复利的旧观点未滚入本轮。",
+      "headline": "本次专用 Chrome 窗口已检查其 with_replies 页面；严格 24 小时窗口内没有发现可见的本人新帖或本人回复。",
       "summaries": []
     },
     {
       "handle": "maitian99",
       "profileUrl": "https://x.com/maitian99",
-      "lastActiveAt": "2026-07-24T04:51:55.827Z",
-      "activityCount": 18,
-      "stance": "bearish",
-      "headline": "实际仓位偏多原油、偏空 Tesla 代理；对 AMD 方向仍悲观但旧空单早已止盈，同时提醒不要把 AI 项目“十个月回本”的一句话直接当成事实。",
+      "lastActiveAt": "2026-07-27T05:47:01.000Z",
+      "activityCount": 2,
+      "stance": "neutral",
+      "headline": "本轮两条更新均为对美国政治人物或他人推文的负面评价，没有披露资产、仓位、交易条件或可直接提取的市场方向。",
       "summaries": [
         {
           "id": "ma-1",
-          "postedAt": "2026-07-23T23:19:43.155Z",
-          "url": "https://x.com/maitian99/status/2080432701039886663",
-          "summary": "质疑把梁文峰演讲中的“十个月回本”直接作为 AI 投资回报假设，认为这可能只是随口一说、未必是可验证事实；强调模型结论对输入证据非常敏感。",
-          "topics": ["AI ROI", "DeepSeek", "assumptions", "data quality"],
+          "postedAt": "2026-07-27T05:47:01.000Z",
+          "url": "https://x.com/maitian99/status/2081617334645424631",
+          "summary": "强烈批评鲁比奥并把负面评价扩展至特朗普内阁；属于政治价值判断，没有给出资产或组合层面的新信号。",
+          "topics": ["Rubio", "Trump cabinet", "politics"],
           "stance": "neutral",
           "confidence": "high"
         },
         {
           "id": "ma-2",
-          "postedAt": "2026-07-23T15:59:22.972Z",
-          "url": "https://x.com/maitian99/status/2080321886760648765",
-          "summary": "澄清去年在 200 多美元建立的 AMD 空头早已止盈，并非一直持有或持续亏损；但仍预计 AMD 会继续下跌，需区分方向观点与当前仓位。",
-          "topics": ["AMD", "short selling", "position status", "bearish thesis"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "ma-3",
-          "postedAt": "2026-07-23T15:40:08.528Z",
-          "url": "https://x.com/maitian99/status/2080317044671537557",
-          "summary": "表示自己通常不交易 Tesla，原因是 TSLA 隐含波动率对期权不友好；当日开盘改用 ARKK 作为代理建立了某种程度的 Tesla 空头。",
-          "topics": ["TSLA", "ARKK", "proxy short", "implied volatility"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "ma-4",
-          "postedAt": "2026-07-23T14:31:41.787Z",
-          "url": "https://x.com/maitian99/status/2080299819751362678",
-          "summary": "披露近期一直通过 USO 做多原油并称交易持续盈利；没有公开仓位规模、成本或退出条件，收益表述尚未独立核验。",
-          "topics": ["USO", "crude oil", "long position", "energy"],
-          "stance": "bullish",
-          "confidence": "high"
+          "postedAt": "2026-07-27T05:42:03.000Z",
+          "url": "https://x.com/maitian99/status/2081616084054986951",
+          "summary": "称某篇推文带有“自我催眠”意味，但当前可见记录缺少被评论内容的完整上下文，无法确认其针对的市场论点。",
+          "topics": ["commentary", "context missing"],
+          "stance": "unclear",
+          "confidence": "low"
         }
       ]
     },
     {
       "handle": "BillAckman",
       "profileUrl": "https://x.com/BillAckman",
-      "lastActiveAt": "2026-07-24T12:43:50.950Z",
+      "lastActiveAt": "2026-07-26T22:43:43.000Z",
       "activityCount": 2,
-      "stance": "neutral",
-      "headline": "本轮两条更新都属于地缘政治与公共政策表达：转发美伊战争演讲并批评纽约市长；没有给出公司、资产或组合层面的新信号。",
+      "stance": "bullish",
+      "headline": "对 Fannie Mae 与 Freddie Mac 给出明确多头判断，核心依据是法院判决对 SPS 转换路径的影响；另一条更新是对民主社会主义者的政治批评，没有新增组合信号。",
       "summaries": [
         {
           "id": "ba-1",
-          "postedAt": "2026-07-24T12:43:50.950Z",
-          "url": "https://x.com/BillAckman/status/2080635066959491088",
-          "summary": "把一段解释美国为何与伊朗交战的演讲称为本年度最重要的演讲之一，并建议花五分钟观看；这是地缘政治背书，不是具体投资建议。",
-          "topics": ["Iran", "war", "geopolitics", "US policy"],
-          "stance": "neutral",
-          "confidence": "high"
+          "postedAt": "2026-07-26T22:43:43.000Z",
+          "url": "https://x.com/BillAckman/status/2081510804948463985",
+          "summary": "明确表示看多 Fannie Mae 与 Freddie Mac，并转发法律分析，称 D.C. Circuit 维持相关判决后 SPS 转换基础受到实质削弱；帖子未附完整判决，法律结论仍待核验。",
+          "topics": ["Fannie Mae", "Freddie Mac", "SPS", "D.C. Circuit"],
+          "stance": "bullish",
+          "confidence": "medium"
         },
         {
           "id": "ba-2",
-          "postedAt": "2026-07-24T12:07:25.713Z",
-          "url": "https://x.com/BillAckman/status/2080625901411143691",
-          "summary": "建议纽约市长 Mamdani 接受参观 Holocaust Museum 的邀请，以理解何为 genocide；属于政治价值判断，没有可直接提取的市场方向。",
-          "topics": ["New York City", "Holocaust Museum", "politics"],
+          "postedAt": "2026-07-26T19:17:41.000Z",
+          "url": "https://x.com/BillAckman/status/2081458958372356151",
+          "summary": "通过转述问答强烈批评美国民主社会主义者，并把支持者与无政府主义联系起来；属于政治立场，没有直接投资信号。",
+          "topics": ["DSA", "US politics", "policy"],
           "stance": "neutral",
           "confidence": "high"
         }
@@ -351,28 +297,28 @@
   ],
   "watchItems": [
     {
-      "topic": "INTC 的正常交易时段确认",
-      "summary": "观察强财报后的现金时段价格、Foundry 客户与 18A 良率披露，以及资本开支和自由现金流口径；验证“经营改善但市场仍先惩罚投入”的判断。"
+      "topic": "FOMC 后的真实仓位选择",
+      "summary": "观察 labubu_trader 是否在周三后重新建立 NQ 或 SOXL 方向仓，以及 BabybusFL 是否从观望重新转向明确空头；这比事件前的情绪表达更有验证力。"
     },
     {
-      "topic": "长端利率、信用与融资压力",
-      "summary": "跟踪 10 年及 30 年收益率、CDX IG/HY、科技公司债和股债背离；若长端回落且信用利差收窄，当前共同的风险规避逻辑会被削弱。"
+      "topic": "NQ 28200 的结构确认",
+      "summary": "跟踪 28200 附近是假跌破吸筹还是延续派发，并结合成交量、市场广度和半导体相对强弱判断，避免只凭单一 Wyckoff 标签下结论。"
     },
     {
-      "topic": "Google AI 广告爬坡",
-      "summary": "关注 AI Search 的广告覆盖、CTR、CVR、Small Business 投放增长和管理层指引，区分短期效率损失与长期可变现查询扩张。"
+      "topic": "信用与市场广度原始数据",
+      "summary": "复核垃圾债、涨跌线、新高新低数量、超大规模云厂商债务风险和零售动量篮子表现；若信用利差与广度改善，BabybusFL 的风险剧本会被削弱。"
     },
     {
-      "topic": "能源相对强弱",
-      "summary": "比较 USO、油企、铜企和小麦的后续表现，并跟踪布油期限结构；若油价和油企同步转弱，maitian99 与 Corsica267 的相对多头将失去价格确认。"
+      "topic": "AI CapEx 到自由现金流",
+      "summary": "继续观察 AI 基础设施订单、融资结构与客户自由现金流，验证 ShanghaoJin 的长期高回报叙事能否跨过资本市场当前最关心的现金流门槛。"
     },
     {
-      "topic": "Tesla/ARKK/TSLL 对手盘",
-      "summary": "BabybusFL 以 TSLL 约 10 为战术分界、maitian99 用 ARKK 代理做空 Tesla；需跟踪两者是否披露平仓，以及 TSLA 对缺口、波动率和大盘方向的实际反应。"
+      "topic": "SPS 与两房处置路径",
+      "summary": "核对 D.C. Circuit 判决全文、政府立场及 SPS 转换、普通股稀释和退出托管的实际影响；Ackman 的 Bullish 结论高度依赖法律路径。"
     },
     {
-      "topic": "仓位与事实口径",
-      "summary": "公开帖子没有审计仓位；INTC 现金流、AI 项目回本期、USO 收益和长期市值目标均属于作者主张或预测，应以财报、监管文件和后续成交记录复核。"
+      "topic": "MLCC 涨价是否扩散",
+      "summary": "等待太阳诱电正式公告并观察其他被动元件厂商是否跟进；若涨价范围有限，就不能把单条消息外推成电子元件全面景气。"
     }
   ]
 }

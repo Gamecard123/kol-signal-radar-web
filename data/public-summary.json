@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-28T09:29:19.000Z",
+  "generatedAt": "2026-07-29T13:52:45.000Z",
   "hours": 24,
   "window": {
-    "start": "2026-07-27T09:13:49.170Z",
-    "end": "2026-07-28T09:13:49.170Z",
+    "start": "2026-07-28T13:45:21.605Z",
+    "end": "2026-07-29T13:45:21.605Z",
     "timezone": "America/New_York"
   },
   "stats": {
-    "monitoredAccounts": 8,
-    "activeAccounts": 7,
-    "summaryItems": 34
+    "monitoredAccounts": 9,
+    "activeAccounts": 9,
+    "summaryItems": 39
   },
   "executiveSummary": [
     {
       "id": "e1",
-      "topic": "半导体短线防守，但并非一致追空",
-      "summary": "maitian99 继续把 AI 硬件反弹视为卖点并确认仍持有约 530 美元建立的 AMD 空头；BabybusFL 极度偏空，却已止盈一笔未指明标的的空单，并反复提醒不要追空；Franktradinglog 认为半导体情绪失控，当前抄底黄金或短债更安全。共同点是降低半导体多头风险，差异在于是否继续加空。",
+      "topic": "FOMC 不确定性主导，但执行方式分化",
+      "summary": "BabybusFL 认为 Powell 若继续两面表述，会用不确定性压制市场；Franktradinglog 的半导体反弹判断以“不出现鹰派加息”为条件；ShanghaoJin 已停止做空半导体，并计划在加息下杀后考虑买入；labubu_trader 则明确在周三结束前不交易。共同点是避免在事件前做高确信度单向押注。",
       "confidence": "high"
     },
     {
       "id": "e2",
-      "topic": "AI CapEx 的验证转向真实支付与现金流",
-      "summary": "ShanghaoJin 认为头部闭源模型增速放缓会造成短期半导体压力，但云厂商销售或出租开源模型算力可能重新扩张长期需求；他把验证条件落在终端支付能力、供给扩张后的价格、云厂商 CapEx 回报与融资、以及自由现金流。Corsica267 则明确表示目前仍无法判断 AI 增量 ROIC 是否高于 WACC。",
+      "topic": "半导体从一致防守转为明显分歧",
+      "summary": "ShanghaoJin 认为半导体隐波与抛压接近阶段极值，已不再做空；Franktradinglog 观察到卖 put 流入，判断局部底部可能形成；maitian99 仍明确“不买 AI 硬件、反弹卖出”；BabybusFL 则继续预期亚洲乃至全球市场存在更深尾部风险。",
       "confidence": "high"
     },
     {
       "id": "e3",
-      "topic": "FOMC 与实际利率是最优先变量",
-      "summary": "Corsica267 给出会后收益率曲线情景矩阵；Franktradinglog 自述市场约计入 40% 的加息概率；maitian99 等待周三再看。三者共同指向：当前不宜只押单一加息或不加息结果，应同时观察两年期收益率、盈亏平衡通胀、长端名义与实际利率的组合反应。",
+      "topic": "韩国市场与存储链成为先行指标",
+      "summary": "BabybusFL 同时给出 KOSPI 5321.97 的近端支撑与约 3804.81 的极端目标；labubu_trader 把 KOSPI 视为全球半导体情绪领先指标；ShanghaoJin 认为存储价格暴涨已逼近下游毛利承受拐点。三者都在用韩国市场判断存储和半导体风险，但时间尺度不同。",
       "confidence": "medium"
     },
     {
       "id": "e4",
-      "topic": "指数方向分歧仍大",
-      "summary": "maitian99 认为个股做空不等于看空全市场，标普 500 仍可能冲向 7800—8000；Corsica267 披露纳指期货反弹至 28200 后转空；BabybusFL 用 1998 年类比强调等待而非追空；Franktradinglog 称本周是多空决战。没有形成可直接跟随的一致指数方向。",
+      "topic": "仓位管理优先于方向预测",
+      "summary": "新增监控的 TaoRay 披露主仓仍是现金牛正股、小仓做波段，并把一部分换入 MU、建立跨式期权交易高波动；maitian99 的 CAT 三次空单已全部结束、合计打平；labubu_trader 事件前不交易；Franktradinglog 强调控制回撤。实际仓位整体比言论更克制。",
       "confidence": "high"
     },
     {
       "id": "e5",
-      "topic": "实际仓位比言论更防守",
-      "summary": "BabybusFL 已止盈一笔空单且未披露重新入场；Franktradinglog 称上周四已卖出几乎全部仓位，周一抢反弹被套后止损；maitian99 仍持 AMD 与 AAPL 空头，同时持有 MSFT、ORCL 多头；Corsica267 披露 NQ 反弹多单后转空。应优先跟踪这些可确认的仓位变化，而不是只看情绪用词。",
+      "topic": "AI 叙事进一步转向现金流与真实商业验证",
+      "summary": "ShanghaoJin 强调大规模 token 销售仍需验证；TaoRay 回避 ASTS 等无正现金流、由网红集中喊单的概念股；BillAckman 注意到中国推动开源模型；NullOreo_ 看好异构 Multi-Agent 的效率。软件与开源侧仍有积极观察，但尚未形成一致的证券仓位信号。",
       "confidence": "high"
     }
   ],
@@ -48,62 +48,62 @@
     {
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
-      "lastActiveAt": "2026-07-28T08:52:34.000Z",
-      "activityCount": 27,
+      "lastActiveAt": "2026-07-29T11:59:11.000Z",
+      "activityCount": 21,
       "stance": "mixed",
-      "headline": "短期承认头部闭源模型增速放缓会压制半导体，长期则看好云厂商以开源模型重新扩张算力需求；核心不是加息本身，而是终端支付、供给扩张后的价格、CapEx 回报与自由现金流能否成立。",
+      "headline": "半导体隐波与抛压可能接近阶段极值，明确表示已经不再做空半导体，若加息造成下杀会考虑买入；同时继续强调仓位控制、存储价格拐点和 token 商业化验证。",
       "summaries": [
         {
           "id": "sh-1",
-          "postedAt": "2026-07-28T08:52:34.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2082026417748082787",
-          "summary": "把 AI 商业化最关键的问题进一步归结为整体支付能力：需求叙事最终要由客户能否持续付费验证；没有披露相关证券仓位。",
-          "topics": ["AI demand", "payment capacity", "commercialization"],
-          "stance": "mixed",
+          "postedAt": "2026-07-29T11:55:23.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082434811550187892",
+          "summary": "认为大规模出售 AI token 的商业可行性仍需验证，不能直接把供给扩张等同于有效收入。",
+          "topics": ["AI", "token sales", "commercialization"],
+          "stance": "neutral",
           "confidence": "high"
         },
         {
           "id": "sh-2",
-          "postedAt": "2026-07-28T08:39:23.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2082023098602410048",
-          "summary": "称云厂商侧的数据令人鼓舞，但仍需观察模型供给扩张后价格能否维持；只要 OpenAI、Anthropic 等头部厂商保持稳定增长，短期预期就可能企稳。",
-          "topics": ["cloud", "model pricing", "OpenAI", "Anthropic"],
+          "postedAt": "2026-07-29T11:09:10.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082423180053074237",
+          "summary": "其自建成交量加权指标显示，股市急跌时的隐含波动率已不再继续上升，暗示恐慌边际可能钝化；该指标未由本轮独立复算。",
+          "topics": ["implied volatility", "market structure", "capitulation"],
           "stance": "mixed",
-          "confidence": "high"
+          "confidence": "medium"
         },
         {
           "id": "sh-3",
-          "postedAt": "2026-07-28T03:55:27.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2081951645005738441",
-          "summary": "认为下一轮开源模型带来的需求扩张不会立刻发生；市场需要时间接受 OpenAI、Anthropic 并非全部 AI 需求，以及云厂商承载开源推理的份额正在上升。",
-          "topics": ["open-source models", "cloud inference", "AI demand"],
+          "postedAt": "2026-07-29T10:40:06.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082415864113184863",
+          "summary": "认为指数下跌对半导体的冲击已经分化，Momentum 交易接近尾声后继续做空半导体性价比不足；明确表示自己已不再做空半导体。",
+          "topics": ["semiconductors", "momentum", "short position"],
           "stance": "bullish",
-          "confidence": "medium"
-        },
-        {
-          "id": "sh-4",
-          "postedAt": "2026-07-28T03:31:38.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2081945652133814646",
-          "summary": "预计下一轮半导体 FOMO 可能来自云厂商高回报销售开源模型服务；其个人估算是 token 投资约 6—8 个月可回本，但同时强调必须验证最终用户是否真的付得起。这是作者估算，并非经审计数据。",
-          "topics": ["semiconductors", "open models", "token economics", "ROI"],
-          "stance": "bullish",
-          "confidence": "medium"
-        },
-        {
-          "id": "sh-5",
-          "postedAt": "2026-07-28T02:53:15.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2081935991498326487",
-          "summary": "认为加息不是核心矛盾，真正需要验证的是头部模型收入增速、云厂商 CapEx 的回报与融资，以及终端资金能否持续流入；帖子中“Quote”之后的旧自引内容未归入本次新观点。",
-          "topics": ["FOMC", "CapEx", "financing", "AI revenue"],
-          "stance": "mixed",
           "confidence": "high"
         },
         {
+          "id": "sh-4",
+          "postedAt": "2026-07-29T10:37:12.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082415136145645975",
+          "summary": "半导体隐波已约 100%，若指数继续杀大盘股，半导体未必同步重挫；公开表示若出现加息下杀会买入。这是条件计划，不是已成交仓位。",
+          "topics": ["FOMC", "semiconductors", "volatility", "conditional buy"],
+          "stance": "bullish",
+          "confidence": "high"
+        },
+        {
+          "id": "sh-5",
+          "postedAt": "2026-07-29T09:58:40.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082405440777035904",
+          "summary": "判断存储价格暴涨可能已经触及下游毛利承受拐点，存储价格需要休整，产业链其他环节才有生存空间；引用区块为作者旧帖，未重复计入本窗口新观点。",
+          "topics": ["memory", "pricing", "gross margin", "supply chain"],
+          "stance": "bearish",
+          "confidence": "medium"
+        },
+        {
           "id": "sh-6",
-          "postedAt": "2026-07-27T21:56:56.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2081861422624223290",
-          "summary": "对国产光刻机消息不愿过度解读，重申产业进展需要长期积累；关于套刻精度与产能效率的提问来自被引用作者，不归入其本人新观点。",
-          "topics": ["lithography", "China semiconductors", "long-term development", "quote attribution"],
+          "postedAt": "2026-07-29T09:40:25.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2082400846445494549",
+          "summary": "认为 AI 资产高波动与 CTA 卖出仍可能压制指数，但半导体再受重击需要 VIX 显著上升；即使加息后买入，也应控制仓位并选择能长期持有的资产。",
+          "topics": ["CTA", "VIX", "AI volatility", "risk management"],
           "stance": "mixed",
           "confidence": "high"
         }
@@ -112,320 +112,376 @@
     {
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
-      "lastActiveAt": "2026-07-28T01:01:36.000Z",
-      "activityCount": 32,
+      "lastActiveAt": "2026-07-29T13:26:55.000Z",
+      "activityCount": 16,
       "stance": "bearish",
-      "headline": "方向上极度看空半导体与风险资产，但执行上更克制：已经止盈一笔未指明标的的空单，明确不希望读者追空，等待 VIX 与 MU 出现更极端位置后再行动。",
+      "headline": "预计 Powell 的模糊表述可能继续释放不确定性并压制市场，仍以 1998 年和金融危机式下跌为参照；交易上则等待深度恐慌后才考虑重仓买入。",
       "summaries": [
         {
           "id": "bb-1",
-          "postedAt": "2026-07-28T01:01:36.000Z",
-          "url": "https://x.com/BabybusFL/status/2081907893612298606",
-          "summary": "明确表示不希望读者追空，认为等待本身也是交易，过早消耗仓位会失去更好机会；附近自引内容用 1998 年作类比，但没有给出已重新开空的证据。",
-          "topics": ["shorting", "position sizing", "waiting", "1998 analogy"],
-          "stance": "mixed",
+          "postedAt": "2026-07-29T13:05:05.000Z",
+          "url": "https://x.com/BabybusFL/status/2082452351504285759",
+          "summary": "认为急跌的具体原因未必是加息；真正的压力是不确定性持续存在，在这种环境下普通利好难以发挥作用。关于“直接加息、跌得更狠”的文字来自引用帖，未归为本人观点。",
+          "topics": ["FOMC", "uncertainty", "risk appetite"],
+          "stance": "bearish",
           "confidence": "high"
         },
         {
           "id": "bb-2",
-          "postedAt": "2026-07-28T00:13:51.000Z",
-          "url": "https://x.com/BabybusFL/status/2081895876134346852",
-          "summary": "观察到许多人询问是否加息，认为这反映市场存在被压抑的恐惧；并未断言本次一定加息，也没有披露对应利率仓位。",
-          "topics": ["FOMC", "rate hike", "sentiment"],
+          "postedAt": "2026-07-29T12:53:31.000Z",
+          "url": "https://x.com/BabybusFL/status/2082449439549984866",
+          "summary": "预判 Powell 可能同时强调通胀风险、就业降温和数据依赖，既不承诺 9 月降息，也不承诺长期维持高利率；认为这种两面表述会放大市场不确定性。",
+          "topics": ["Powell", "FOMC communication", "inflation", "employment"],
           "stance": "bearish",
           "confidence": "high"
         },
         {
           "id": "bb-3",
-          "postedAt": "2026-07-27T16:17:17.000Z",
-          "url": "https://x.com/BabybusFL/status/2081775947036905972",
-          "summary": "给出非常粗略的路径设想：VIX 先急升再回落，MU 下探至 5 字头，并考虑约 550 附近再看机会；作者自己强调只是粗略推演，不能视为精确目标价。",
-          "topics": ["VIX", "MU", "scenario", "target"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "bb-4",
-          "postedAt": "2026-07-27T16:15:31.000Z",
-          "url": "https://x.com/BabybusFL/status/2081775499190108490",
-          "summary": "称自己对后市“极度悲观”，但仍不建议此时直接做空，选择等待赔率更高、风险收益更不对称的机会。",
-          "topics": ["risk-off", "shorting", "asymmetric payoff"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "bb-5",
-          "postedAt": "2026-07-27T14:04:31.000Z",
-          "url": "https://x.com/BabybusFL/status/2081742533747437806",
-          "summary": "披露已将一笔空单止盈，但未说明具体标的、开仓价或规模；本窗口内没有可确认的重新入场。",
-          "topics": ["short position", "profit taking", "positioning"],
+          "postedAt": "2026-07-29T11:57:58.000Z",
+          "url": "https://x.com/BabybusFL/status/2082435463378342349",
+          "summary": "若 FOMC 继续释放不确定性，预计跌势可能延续至 8 月；但如果市场出现极端崩跌，他会考虑重仓买入。这是条件计划，并非已执行仓位。",
+          "topics": ["FOMC", "August", "crash scenario", "conditional buy"],
           "stance": "mixed",
           "confidence": "high"
         },
         {
-          "id": "bb-6",
-          "postedAt": "2026-07-27T14:01:26.000Z",
-          "url": "https://x.com/BabybusFL/status/2081741755955745269",
-          "summary": "把费城半导体指数 11711.01 视为最后一道支撑，重点观察能否守住；后续帖子里出现的“跌破”字样来自引用内容，本轮不把它当作作者本人确认。",
-          "topics": ["SOX", "semiconductors", "support", "11711.01"],
+          "id": "bb-4",
+          "postedAt": "2026-07-29T11:53:32.000Z",
+          "url": "https://x.com/BabybusFL/status/2082434347517284764",
+          "summary": "认为市场尚未真正完成下跌，参照 1998 年，可能需要一次金融危机级别的调整，才能为美联储后续降息提供理由；“华尔街制造危机”属于作者推测。",
+          "topics": ["1998", "financial crisis", "rate cuts", "tail risk"],
           "stance": "bearish",
-          "confidence": "high"
+          "confidence": "medium"
+        },
+        {
+          "id": "bb-5",
+          "postedAt": "2026-07-29T04:59:54.000Z",
+          "url": "https://x.com/BabybusFL/status/2082330251137257708",
+          "summary": "给出 KOSPI 约 3804.81 的个人极端目标，并称自己此前已经预期会出现快速下杀；这是作者技术情景，未由本轮独立验证。",
+          "topics": ["KOSPI", "3804.81", "crash target"],
+          "stance": "bearish",
+          "confidence": "medium"
+        },
+        {
+          "id": "bb-6",
+          "postedAt": "2026-07-29T04:41:47.000Z",
+          "url": "https://x.com/BabybusFL/status/2082325691975012618",
+          "summary": "在韩国市场急跌后，进一步判断日经 225 也存在单日约 10% 下跌风险，认为地区性冲击可能向其他市场扩散。",
+          "topics": ["Nikkei 225", "KOSPI", "Asia markets", "tail risk"],
+          "stance": "bearish",
+          "confidence": "medium"
         }
       ]
     },
     {
       "handle": "Franktradinglog",
       "profileUrl": "https://x.com/Franktradinglog",
-      "lastActiveAt": "2026-07-27T17:31:17.000Z",
-      "activityCount": 9,
-      "stance": "bearish",
-      "headline": "认为半导体情绪已失控，黄金或短债比接半导体飞刀更安全；仓位上称上周四已卖出几乎全部持仓，周一抢反弹失败后止损，FOMC 前保持低暴露。",
+      "lastActiveAt": "2026-07-28T17:30:09.000Z",
+      "activityCount": 5,
+      "stance": "mixed",
+      "headline": "卖 put 流量令其判断半导体回调可能正在形成局部底部，向上突破取决于 FOMC 不出现鹰派加息；同时继续把控制回撤放在收益之前。",
       "summaries": [
         {
           "id": "fr-1",
-          "postedAt": "2026-07-27T17:31:17.000Z",
-          "url": "https://x.com/Franktradinglog/status/2081794567893041370",
-          "summary": "认为半导体市场情绪已偏离正常区间，当前若要接飞刀，黄金或短期限债券相对更安全；没有披露对应标的或仓位。",
-          "topics": ["semiconductors", "gold", "short-duration bonds", "risk-off"],
-          "stance": "bearish",
+          "postedAt": "2026-07-28T17:30:09.000Z",
+          "url": "https://x.com/Franktradinglog/status/2082156672244764733",
+          "summary": "强调牛市中的高收益记录意义有限，能否把利润兑现以及控制回撤，比短期赚钱更重要。",
+          "topics": ["drawdown", "risk management", "profit realization"],
+          "stance": "neutral",
           "confidence": "high"
         },
         {
           "id": "fr-2",
-          "postedAt": "2026-07-27T17:10:38.000Z",
-          "url": "https://x.com/Franktradinglog/status/2081789371909550436",
-          "summary": "自述上周四已经卖出几乎全部持仓，周一尝试抢反弹后被套并止损；帖子没有说明具体资产和仓位规模。",
-          "topics": ["de-risking", "stop loss", "positioning"],
-          "stance": "bearish",
+          "postedAt": "2026-07-28T17:27:37.000Z",
+          "url": "https://x.com/Franktradinglog/status/2082156031547936942",
+          "summary": "当前先按“局部低点”观察，但不确定是否已经形成大级别底部。",
+          "topics": ["local bottom", "market structure"],
+          "stance": "mixed",
           "confidence": "high"
         },
         {
           "id": "fr-3",
-          "postedAt": "2026-07-27T16:58:24.000Z",
-          "url": "https://x.com/Franktradinglog/status/2081786291881140632",
-          "summary": "称市场大约计入 40% 的 7 月 FOMC 加息概率，并强调不确定性极高；该概率是作者帖文中的说法，本轮未用利率期货独立核验。",
-          "topics": ["FOMC", "rate hike probability", "uncertainty"],
-          "stance": "mixed",
-          "confidence": "medium"
+          "postedAt": "2026-07-28T16:21:50.000Z",
+          "url": "https://x.com/Franktradinglog/status/2082139478299410599",
+          "summary": "观察到大量卖 put 流入，判断半导体本轮回调大概率正在形成底部；若 FOMC 不进行鹰派加息，预计板块可能向上突破。",
+          "topics": ["put selling", "semiconductors", "FOMC", "local bottom"],
+          "stance": "bullish",
+          "confidence": "high"
         },
         {
           "id": "fr-4",
-          "postedAt": "2026-07-27T11:40:51.000Z",
-          "url": "https://x.com/Franktradinglog/status/2081706376896856465",
-          "summary": "把本周称为“多空决战周”，关注半导体、债券与大宗商品之间的轮动；更完整的交易计划在站外内容或评论中，当前可见帖子不足以确认具体点位。",
-          "topics": ["market rotation", "semiconductors", "bonds", "commodities"],
-          "stance": "mixed",
-          "confidence": "medium"
-        },
-        {
-          "id": "fr-5",
-          "postedAt": "2026-07-27T11:38:18.000Z",
-          "url": "https://x.com/Franktradinglog/status/2081705735600382138",
-          "summary": "公开预览仅能确认其此前已降低风险并实现部分利润；完整内容受限，无法据此推断具体持仓或下一步方向。",
-          "topics": ["risk reduction", "realized profit", "limited context"],
-          "stance": "mixed",
-          "confidence": "low"
+          "postedAt": "2026-07-28T14:27:33.000Z",
+          "url": "https://x.com/Franktradinglog/status/2082110717080305669",
+          "summary": "表示本轮虽然盈利不多，但也没有把收益全部回吐；未披露具体资产和当前仓位。敏捷交易原则来自旧自引，没有重复计为本窗口新观点。",
+          "topics": ["trading review", "profit retention", "positioning"],
+          "stance": "neutral",
+          "confidence": "high"
         }
       ]
     },
     {
       "handle": "labubu_trader",
       "profileUrl": "https://x.com/labubu_trader",
-      "lastActiveAt": null,
-      "activityCount": 0,
+      "lastActiveAt": "2026-07-29T03:55:31.000Z",
+      "activityCount": 5,
       "stance": "neutral",
-      "headline": "本次专用 Chrome 窗口已检查其 with_replies 页面；严格 24 小时窗口内没有发现可见的本人新帖或本人回复。",
-      "summaries": []
-    },
-    {
-      "handle": "Corsica267",
-      "profileUrl": "https://x.com/Corsica267",
-      "lastActiveAt": "2026-07-28T07:15:38.000Z",
-      "activityCount": 27,
-      "stance": "mixed",
-      "headline": "宏观上聚焦美国资本流入、AI 回报能否覆盖资本成本，以及 FOMC 后整条收益率曲线；交易上披露 NQ 反弹至 28200 后转空，并把财政部融资报告和就业数据列为下一批催化剂。",
+      "headline": "FOMC 前保持不交易，认为亚洲时段的 NQ 与 KOSPI 是判断随后美股和半导体方向的重要先行信号；没有披露本窗口新建仓位。",
       "summaries": [
         {
-          "id": "co-1",
-          "postedAt": "2026-07-28T03:00:05.000Z",
-          "url": "https://x.com/Corsica267/status/2081937711636832711",
-          "summary": "提出美国经常账户赤字依靠海外资金购买美债和美股来融资；若 AI 增长故事失速，资本流入可能放缓。这是宏观假设，不是已验证的资金流结论。",
-          "topics": ["current account", "capital flows", "US Treasuries", "AI growth"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "co-2",
-          "postedAt": "2026-07-28T02:37:59.000Z",
-          "url": "https://x.com/Corsica267/status/2081932150480523572",
-          "summary": "披露纳指期货在 28200 附近的反弹多单之后已经反手做空；未提供合约、仓位规模或止损。",
-          "topics": ["NQ", "28200", "long-to-short", "positioning"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "co-3",
-          "postedAt": "2026-07-28T01:24:54.000Z",
-          "url": "https://x.com/Corsica267/status/2081913755664040271",
-          "summary": "把美国财政部融资报告和就业数据列为 FOMC 之后的关键事件，显示其下一阶段更关注供给与增长数据对长端利率的影响。",
-          "topics": ["Treasury financing", "employment", "rates", "catalysts"],
+          "id": "la-1",
+          "postedAt": "2026-07-29T03:55:31.000Z",
+          "url": "https://x.com/labubu_trader/status/2082314049476534717",
+          "summary": "过去曾使用 KOSPI 信号日内交易 SNXX、SOXL 和 SOXS；这是历史方法描述，不能当成当前仓位。",
+          "topics": ["KOSPI", "SNXX", "SOXL", "SOXS"],
           "stance": "neutral",
           "confidence": "high"
         },
         {
-          "id": "co-4",
-          "postedAt": "2026-07-27T23:53:56.000Z",
-          "url": "https://x.com/Corsica267/status/2081890863219892608",
-          "summary": "倾向认为一次加息反而可以减少市场持续猜测；这是对政策沟通效果的条件性判断，并非确认 FOMC 会加息。",
-          "topics": ["FOMC", "rate hike", "policy communication"],
-          "stance": "mixed",
+          "id": "la-2",
+          "postedAt": "2026-07-29T03:31:01.000Z",
+          "url": "https://x.com/labubu_trader/status/2082307885032436062",
+          "summary": "把 KOSPI 视为全球半导体风险偏好的领先指标。",
+          "topics": ["KOSPI", "semiconductors", "leading indicator"],
+          "stance": "neutral",
           "confidence": "high"
         },
         {
-          "id": "co-5",
-          "postedAt": "2026-07-27T21:54:56.000Z",
-          "url": "https://x.com/Corsica267/status/2081860916283597228",
-          "summary": "讨论金融抑制、名义增长与财政缺口，认为通胀预期能否稳定以及 AI 增量 ROIC 是否高于 WACC 都尚无定论；没有把 AI 高投入直接等同于必然高回报。",
-          "topics": ["financial repression", "inflation expectations", "AI ROIC", "WACC"],
-          "stance": "mixed",
+          "id": "la-3",
+          "postedAt": "2026-07-29T02:22:36.000Z",
+          "url": "https://x.com/labubu_trader/status/2082290665401307285",
+          "summary": "根据以往 FOMC 经验，认为市场通常从亚洲交易时段或夜盘就开始提前显露方向。",
+          "topics": ["FOMC", "Asia session", "night session"],
+          "stance": "neutral",
           "confidence": "high"
         },
         {
-          "id": "co-6",
-          "postedAt": "2026-07-27T20:55:54.000Z",
-          "url": "https://x.com/Corsica267/status/2081846059496804844",
-          "summary": "给出 FOMC 后曲线矩阵：两年期上行、盈亏平衡通胀与长端名义利率下行代表鹰派可信；长端实际利率上行代表融资成本压力；全曲线上行则可能是期限溢价反噬。",
-          "topics": ["yield curve", "real yields", "breakeven inflation", "term premium"],
-          "stance": "mixed",
+          "id": "la-4",
+          "postedAt": "2026-07-29T02:06:29.000Z",
+          "url": "https://x.com/labubu_trader/status/2082286608678793581",
+          "summary": "明确表示周三结束前不交易，因为 FOMC 当日盘中经常剧烈震荡且方向不清；计划以周三夜间亚洲时段的 NQ 走势确认方向。帖子中的 SOXL 买卖是旧自引，未算作本窗口交易。",
+          "topics": ["FOMC", "NQ", "no trade", "positioning"],
+          "stance": "neutral",
           "confidence": "high"
+        }
+      ]
+    },
+    {
+      "handle": "Corsica267",
+      "profileUrl": "https://x.com/Corsica267",
+      "lastActiveAt": "2026-07-29T05:48:54.000Z",
+      "activityCount": 4,
+      "stance": "unclear",
+      "headline": "本窗口只有四条短回复，缺少可独立验证的完整市场论述；仅能确认其把未指明标的的“3800”情景视作严重尾部风险，并提醒 AI 会产生幻觉。",
+      "summaries": [
+        {
+          "id": "co-1",
+          "postedAt": "2026-07-29T05:30:49.000Z",
+          "url": "https://x.com/Corsica267/status/2082338033542852928",
+          "summary": "提醒 AI 会产生幻觉；这更接近信息可靠性提示，不构成明确交易信号。",
+          "topics": ["AI", "hallucination", "information quality"],
+          "stance": "neutral",
+          "confidence": "high"
+        },
+        {
+          "id": "co-2",
+          "postedAt": "2026-07-29T04:56:36.000Z",
+          "url": "https://x.com/Corsica267/status/2082329421160304686",
+          "summary": "对“3800”情景表示若真的发生，市场参与者能存活已属幸运，显示其把该情景视作严重尾部风险；本人正文未说明 3800 对应的具体指数。",
+          "topics": ["tail risk", "3800", "limited context"],
+          "stance": "bearish",
+          "confidence": "medium"
         }
       ]
     },
     {
       "handle": "NullOreo_",
       "profileUrl": "https://x.com/NullOreo_",
-      "lastActiveAt": "2026-07-27T19:18:51.000Z",
-      "activityCount": 1,
+      "lastActiveAt": "2026-07-29T13:19:32.000Z",
+      "activityCount": 4,
       "stance": "neutral",
-      "headline": "唯一更新是对 K3 产品体验的抱怨：推理较慢、额度较低且按月重置；没有可提取的证券或宏观交易信号。",
+      "headline": "本窗口全部围绕 Codex 会话切换、自动压缩和异构 Multi-Agent，核心诉求是降低长上下文幻觉及 Token 成本；没有市场或证券仓位信号。",
       "summaries": [
         {
           "id": "nu-1",
-          "postedAt": "2026-07-27T19:18:51.000Z",
-          "url": "https://x.com/NullOreo_/status/2081821638472151114",
-          "summary": "称 K3 推理速度较慢、使用额度偏低且按月重置；属于产品体验反馈，不构成市场观点或持仓信号。",
-          "topics": ["K3", "AI product", "usage quota"],
+          "postedAt": "2026-07-29T13:19:32.000Z",
+          "url": "https://x.com/NullOreo_/status/2082455988050010316",
+          "summary": "认为 auto compact 有用，但多次压缩后仍倾向新开会话，以减少长上下文导致的幻觉与 Token 成本增长。",
+          "topics": ["Codex", "auto compact", "context management"],
           "stance": "neutral",
           "confidence": "high"
+        },
+        {
+          "id": "nu-2",
+          "postedAt": "2026-07-29T13:02:55.000Z",
+          "url": "https://x.com/NullOreo_/status/2082451805590667310",
+          "summary": "发现 Codex 可以在生成 handoff 后自动新开并衔接会话，认为这能主动控制上下文长度及 Token 消耗。",
+          "topics": ["Codex", "handoff", "new session", "token usage"],
+          "stance": "neutral",
+          "confidence": "high"
+        },
+        {
+          "id": "nu-3",
+          "postedAt": "2026-07-29T11:50:34.000Z",
+          "url": "https://x.com/NullOreo_/status/2082433599341756894",
+          "summary": "主张异构模型的 Multi-Agent 分工可能更合理：主 Agent 保留高层决策，子 Agent 接收独立小任务，以减轻长上下文注意力衰减和重复输入成本；帖子引用的研究数字未独立核验。",
+          "topics": ["Multi-Agent", "heterogeneous models", "token efficiency"],
+          "stance": "bullish",
+          "confidence": "medium"
         }
       ]
     },
     {
       "handle": "maitian99",
       "profileUrl": "https://x.com/maitian99",
-      "lastActiveAt": "2026-07-28T07:16:22.000Z",
-      "activityCount": 28,
+      "lastActiveAt": "2026-07-29T13:39:22.000Z",
+      "activityCount": 23,
       "stance": "mixed",
-      "headline": "继续看空 AI 硬件相对表现并确认持有 AMD 空头，同时把 AAPL put／空头列为最大仓位；但并不全面看空指数，认为标普仍可能创新高，且持有 MSFT、ORCL 多头，表达的是“空硬件、多软件”的相对交易。",
+      "headline": "认为韩国崩盘和 AI 硬件下跌已经明牌，反弹仍是卖出机会，但注意力开始转向下一阶段变量；CAT 空单已全部退出、总体打平，本窗口没有重新确认 AMD 空头仍在持有。",
       "summaries": [
         {
           "id": "ma-1",
-          "postedAt": "2026-07-28T07:16:22.000Z",
-          "url": "https://x.com/maitian99/status/2082002205549232207",
-          "summary": "认为有浮盈却一直不止盈，本质上等同于继续追多；强调盈利后仍需重新评估赔率与仓位，而不是把持有视为被动选择。",
-          "topics": ["profit taking", "position management", "risk-reward"],
+          "postedAt": "2026-07-29T13:38:33.000Z",
+          "url": "https://x.com/maitian99/status/2082460775164125308",
+          "summary": "认为韩国崩盘、AI 硬件继续下跌只是已经明牌的行情表现，当前更重要的是下一阶段的“一对矛盾、三个事件”；可见正文未列出具体内容，不自行补全。",
+          "topics": ["market regime", "AI hardware", "next catalysts"],
           "stance": "mixed",
           "confidence": "high"
         },
         {
           "id": "ma-2",
-          "postedAt": "2026-07-28T01:17:10.000Z",
-          "url": "https://x.com/maitian99/status/2081911810395918581",
-          "summary": "区分公司质量与当前赔率：认为 SAP 公司质量优于 ORCL，但 SAP 已上涨约 17%、FOMC 在即，当前做多胜率可能反转；附近帖子披露仍持 MSFT、ORCL 多头，ORCL 偏 1—2 日短线。",
-          "topics": ["ORCL", "SAP", "MSFT", "software"],
-          "stance": "bullish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-3",
-          "postedAt": "2026-07-27T23:41:22.000Z",
-          "url": "https://x.com/maitian99/status/2081887701687578811",
-          "summary": "认为做空部分个股不等于看空整个市场，标普 500 仍可能创新高并上探 7800—8000；这是作者情景目标，未给出时间范围或概率。",
-          "topics": ["SPX", "7800", "8000", "index outlook"],
-          "stance": "bullish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-4",
-          "postedAt": "2026-07-27T17:11:31.000Z",
-          "url": "https://x.com/maitian99/status/2081789594136137958",
-          "summary": "披露 AAPL put／空头是当前第一大仓位，约从 325 美元开始、7 月 13 日以来持续加仓，并自述浮亏约 25%；这是高风险、逆势且存在时间价值损耗的仓位。",
-          "topics": ["AAPL", "put", "short position", "drawdown"],
+          "postedAt": "2026-07-29T13:03:38.000Z",
+          "url": "https://x.com/maitian99/status/2082451985270202711",
+          "summary": "自述曾在 CAT 约 1000 附近做空三次，最后一次反弹时止损；三次交易合计约打平。仍称 CAT 是理想做空标的，但当前没有已确认 CAT 仓位。",
+          "topics": ["CAT", "short trades", "stop loss", "break-even"],
           "stance": "bearish",
           "confidence": "high"
         },
         {
+          "id": "ma-3",
+          "postedAt": "2026-07-29T12:45:13.000Z",
+          "url": "https://x.com/maitian99/status/2082447353953341866",
+          "summary": "明确表示近期不买 AI 硬件，任何反弹都是卖出机会。",
+          "topics": ["AI hardware", "sell rallies", "semiconductors"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "ma-4",
+          "postedAt": "2026-07-29T03:41:37.000Z",
+          "url": "https://x.com/maitian99/status/2082310550713667652",
+          "summary": "回顾自己从 3 月底做多、5 月 7 日开始偏空、5 月 27 日正式转空；在 AI 硬件大涨阶段只获小利但未亏损，强调控制回撤。属于历史回顾，不等于当前具体仓位表。",
+          "topics": ["AI hardware", "position cycle", "drawdown control"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
           "id": "ma-5",
-          "postedAt": "2026-07-27T15:03:31.000Z",
-          "url": "https://x.com/maitian99/status/2081757379255820527",
-          "summary": "认为市场需要新的拐点；AI 硬件自 6 月 3 日以来处于下降趋势，策略上继续逢反弹卖出，同时认为 AAPL 当前估值难以持续。",
-          "topics": ["AI hardware", "sell rallies", "AAPL", "trend"],
+          "postedAt": "2026-07-29T02:58:24.000Z",
+          "url": "https://x.com/maitian99/status/2082299673834823808",
+          "summary": "认为分析 BTC 不能脱离美股环境，并把当前部分 BTC 收益归因于牛市运气，而非稳定的独立价值逻辑。",
+          "topics": ["BTC", "US equities", "market linkage"],
           "stance": "bearish",
           "confidence": "high"
         },
         {
           "id": "ma-6",
-          "postedAt": "2026-07-27T14:04:38.000Z",
-          "url": "https://x.com/maitian99/status/2081742563464118764",
-          "summary": "确认约 530 美元建立的 AMD 空头仍在持有；本条新内容主要是仓位确认，估值与增长斜率等理由来自其被引用的旧帖，应作为背景而非本窗口新增论据。",
-          "topics": ["AMD", "short position", "valuation", "positioning"],
+          "postedAt": "2026-07-28T14:07:17.000Z",
+          "url": "https://x.com/maitian99/status/2082105616923767191",
+          "summary": "指出 AMD 当日继续下跌约 8%，两三天累计接近 20%，继续表达对抄底的否定态度；旧 AMD 空头披露位于引用块中，因此不能据此确认当前仍持仓。",
+          "topics": ["AMD", "drawdown", "dip buying", "quote attribution"],
           "stance": "bearish",
-          "confidence": "high"
+          "confidence": "medium"
         }
       ]
     },
     {
       "handle": "BillAckman",
       "profileUrl": "https://x.com/BillAckman",
-      "lastActiveAt": "2026-07-28T00:39:52.000Z",
-      "activityCount": 4,
+      "lastActiveAt": "2026-07-29T02:12:05.000Z",
+      "activityCount": 2,
       "stance": "neutral",
-      "headline": "本轮主要是机器人演示、政府补贴杂货店和媒体权力的评论，没有披露新的上市公司仓位；机器人相关帖子只是简短评价，不能外推为 TSLA 或 Figure 投资信号。",
+      "headline": "一条关注中国推动开源模型，一条为纽约政治质问；没有可确认的新证券仓位或明确交易建议。",
       "summaries": [
         {
           "id": "ba-1",
-          "postedAt": "2026-07-28T00:39:52.000Z",
-          "url": "https://x.com/BillAckman/status/2081902424235622827",
-          "summary": "纠正视频中的机器人来自 Figure，而不是 Tesla Optimus；没有表达对 TSLA、Figure 或机器人行业的投资方向。",
-          "topics": ["Figure", "Tesla Optimus", "robotics", "fact correction"],
+          "postedAt": "2026-07-29T02:12:05.000Z",
+          "url": "https://x.com/BillAckman/status/2082288020560957490",
+          "summary": "认为“中国人在推动开源”这一现象值得关注，但没有展开其商业、投资或政策含义。",
+          "topics": ["China", "open source", "AI"],
           "stance": "neutral",
           "confidence": "high"
         },
         {
           "id": "ba-2",
-          "postedAt": "2026-07-27T20:15:54.000Z",
-          "url": "https://x.com/BillAckman/status/2081835994156830855",
-          "summary": "仅用“Agreed”赞同一则反对政府补贴杂货店的帖子；详细经济因果论证来自被引用作者，不能全部归为 Ackman 的新论述。",
-          "topics": ["grocery subsidy", "public policy", "quote attribution"],
+          "postedAt": "2026-07-28T19:58:06.000Z",
+          "url": "https://x.com/BillAckman/status/2082193903738880321",
+          "summary": "借一则事件向纽约市长 Mamdani 发问并指责其言论激发攻击；这是 Ackman 的政治归因，不应表述为已证实因果，引用中的事件细节未归入其本人陈述。",
+          "topics": ["New York politics", "Mamdani", "causal attribution"],
+          "stance": "neutral",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "handle": "TaoRay",
+      "profileUrl": "https://x.com/TaoRay",
+      "lastActiveAt": "2026-07-29T01:58:30.000Z",
+      "activityCount": 10,
+      "stance": "mixed",
+      "headline": "判断市场处于超宽幅震荡第一阶段，主仓仍是现金牛正股、小仓做波段；已把部分仓位换入 MU 并建立跨式期权，回避 ASTS 等无正现金流的网红概念股。",
+      "summaries": [
+        {
+          "id": "ta-1",
+          "postedAt": "2026-07-28T18:46:50.000Z",
+          "url": "https://x.com/TaoRay/status/2082175970115748152",
+          "summary": "警告投资者谨慎对待 ASTS 及一切没有正现金流、由网红集中喊单的概念股；认为当前只是第一阶段的震荡期，真正风险仍在后面。",
+          "topics": ["ASTS", "cash flow", "influencer trades", "tail risk"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "ta-2",
+          "postedAt": "2026-07-28T17:19:18.000Z",
+          "url": "https://x.com/TaoRay/status/2082153940398043343",
+          "summary": "声明没有任何投资群；把当前市场定义为超宽幅震荡的跷跷板行情，仅以小仓位做波段、逢低配置现金牛，较大的仓位动作要等到下一阶段。",
+          "topics": ["market regime", "cash cows", "swing trading", "position sizing"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
+          "id": "ta-3",
+          "postedAt": "2026-07-28T17:12:32.000Z",
+          "url": "https://x.com/TaoRay/status/2082152235212197911",
+          "summary": "强调好公司不等于好价格，投资者应优先保护自身资产，不要把偶像崇拜和贪婪结合起来为热门公司抬轿。",
+          "topics": ["valuation", "behavioral finance", "risk control"],
+          "stance": "bearish",
+          "confidence": "high"
+        },
+        {
+          "id": "ta-4",
+          "postedAt": "2026-07-28T16:39:36.000Z",
+          "url": "https://x.com/TaoRay/status/2082143948508901583",
+          "summary": "披露已把一部分仓位换入 MU，并建立跨式期权，以持续高波动获利；大部分仓位仍在现金牛正股，只拿小部分做波段，不押注财报方向。",
+          "topics": ["MU", "straddle", "volatility", "cash-cow stocks"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
+          "id": "ta-5",
+          "postedAt": "2026-07-28T14:43:11.000Z",
+          "url": "https://x.com/TaoRay/status/2082114652994203685",
+          "summary": "以自己投资 MoviePass 最终破产的经历强调，失败案例比成功案例更能帮助成长；对只展示胜绩、不披露失败的网络股神保持怀疑。引用区块中的赞美内容未归入本人观点。",
+          "topics": ["MoviePass", "investment lessons", "failure analysis"],
           "stance": "neutral",
           "confidence": "high"
         },
         {
-          "id": "ba-3",
-          "postedAt": "2026-07-27T17:33:48.000Z",
-          "url": "https://x.com/BillAckman/status/2081795201618637145",
-          "summary": "只用“Cool”评价浏览器控制机器人演示；“100 台机器人”等细节来自引用帖，且没有披露相关投资。",
-          "topics": ["robotics", "browser control", "quote attribution"],
-          "stance": "neutral",
-          "confidence": "high"
-        },
-        {
-          "id": "ba-4",
-          "postedAt": "2026-07-27T11:40:18.000Z",
-          "url": "https://x.com/BillAckman/status/2081706238153261278",
-          "summary": "推荐阅读 Bernard Arnault 的媒体回应，并称 X 正在把权力从传统媒体转向普通人；属于媒体与政治观点，没有新增资产信号。",
-          "topics": ["Bernard Arnault", "media", "X", "public discourse"],
-          "stance": "neutral",
+          "id": "ta-6",
+          "postedAt": "2026-07-28T14:09:20.000Z",
+          "url": "https://x.com/TaoRay/status/2082106131502321964",
+          "summary": "将本轮财报季概括为“见光死”，认为网红集中喊单会招来对手盘；为避免利益冲突，自己只公开讨论大标的，不在社媒讨论中小盘股。",
+          "topics": ["earnings season", "sell the news", "crowded trades", "small caps"],
+          "stance": "bearish",
           "confidence": "high"
         }
       ]
@@ -433,28 +489,28 @@
   ],
   "watchItems": [
     {
-      "topic": "FOMC 后的收益率曲线组合",
-      "summary": "同时跟踪两年期收益率、盈亏平衡通胀、10 年与 30 年名义及实际利率：短端升而长端与通胀预期降偏向鹰派可信；长端实际利率升代表融资成本压力；全曲线升则警惕期限溢价反噬。"
+      "topic": "FOMC 的实际表述与市场组合反应",
+      "summary": "不要只判断加息或不加息；同时观察 Powell 是否强调数据依赖、9 月路径是否继续模糊，以及两年期收益率、长端实际利率、VIX 和半导体相对强弱如何组合反应。"
     },
     {
-      "topic": "SOX 11711.01 与半导体相对强弱",
-      "summary": "验证费城半导体指数能否守住 11711.01，并比较半导体与大盘的相对表现；本轮没有把引用帖中的“跌破”误当成 BabybusFL 的本人确认。"
+      "topic": "半导体局部底部能否成立",
+      "summary": "验证卖 put 流入、半导体隐波不再上升和 ShanghaoJin 停止做空，是否真的对应卖压衰竭；若 FOMC 后 VIX 与相关性继续上升，局部底部假设会被削弱。"
     },
     {
-      "topic": "AI 支付、价格与自由现金流",
-      "summary": "观察终端客户支付能力、模型供给扩张后的 token 价格、开源模型服务收入、云厂商 CapEx 回报与融资，以及自由现金流；这些变量决定短期 CapEx 惩罚能否转为长期需求重估。"
+      "topic": "KOSPI 的近端支撑与尾部情景",
+      "summary": "跟踪 KOSPI 5321.97 附近能否稳定，以及 BabybusFL 的约 3804.81 极端目标是否仍被提及；这些都是作者技术位，不是已独立验证的价格预测。"
     },
     {
-      "topic": "财政部融资报告与就业数据",
-      "summary": "FOMC 后继续跟踪美国财政部融资规模、期限结构与就业数据，判断长端利率上行来自增长、供给还是期限溢价。"
+      "topic": "存储价格、韩国标的与 MU 的分化",
+      "summary": "观察存储价格是否真的触及下游毛利拐点、韩国存储股是否继续弱于 MU，以及 SK Hynix“好于担忧”的即时表现能否延续。"
     },
     {
-      "topic": "软件与 AI 硬件的相对交易",
-      "summary": "跟踪 MSFT、ORCL、SAP 相对 AMD、AAPL 与半导体指数的强弱，验证 maitian99 的“多软件、空硬件”框架；同时注意其 AAPL put／空头已自述浮亏约 25%。"
+      "topic": "AI token、开源模型与真实收入",
+      "summary": "继续验证大规模 token 销售、开源模型的实际付费、价格与云厂商现金流；BillAckman 对中国开源的关注尚未转化为明确投资逻辑。"
     },
     {
-      "topic": "仓位确认与引用归属",
-      "summary": "优先关注下一次明确的建仓、止盈或止损；所有带 Quote 的帖子继续只把引用标记之前的文字归给当前作者，避免把他人的观点或旧自引重复计算。"
+      "topic": "可确认的下一次仓位变化",
+      "summary": "重点跟踪 TaoRay 的 MU 跨式期权是否调整、ShanghaoJin 是否真的执行加息后买入、labubu_trader 何时恢复交易，以及 maitian99 是否重新披露 AMD 或其他 AI 硬件空仓。"
     }
   ]
 }

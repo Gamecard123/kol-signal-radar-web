@@ -1,156 +1,129 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-11T13:52:47.000Z",
+  "generatedAt": "2026-08-12T12:05:45.000Z",
   "hours": 24,
   "window": {
-    "start": "2026-08-10T13:47:00.100Z",
-    "end": "2026-08-11T13:47:00.100Z",
+    "start": "2026-08-11T12:01:43.263Z",
+    "end": "2026-08-12T12:01:43.263Z",
     "timezone": "America/New_York"
   },
   "stats": {
     "monitoredAccounts": 9,
-    "activeAccounts": 7,
-    "summaryItems": 23
+    "activeAccounts": 8,
+    "summaryItems": 18
   },
   "executiveSummary": [
     {
       "id": "e1",
-      "topic": "美国扩张的是资本需求，而非所有人的需求",
-      "summary": "Corsica267 认为财政赤字与 AI、数据中心、电力和工业投资正在争夺有限储蓄及真实资源，从而同时推高真实利率、铜、能源、设备与工资；资本开支受益者盈利可增长，但全市场估值中枢和依赖再融资的长久期资产承压。其核心不是立即衰退，而是资本需求增长快于储蓄创造。",
+      "topic": "CPI 的方向判断一致性不高，事件风险高于单一预测",
+      "summary": "maitian99 预计 CPI 低于市场预期，并用当日到期 TLT 看涨期权对冲；Corsica267 则认为 CPI 难以改变利率主线，近期结算、长债拍卖、能源反弹和一级交易商持仓需求更重要。共同信号不是确定押注通胀，而是降低裸露方向、关注利率市场结构。",
       "confidence": "high"
     },
     {
       "id": "e2",
-      "topic": "“最后一舞”仍在，但杠杆与财报风险被主动收缩",
-      "summary": "BabybusFL 预计降息前风险资产仍会完成最后冲顶，随后美元转强并出现股、债、金、币同步下跌；ShanghaoJin 一边偏好动量股，一边强调杠杆上涨慢、去杠杆下跌快的非线性风险；labubu_trader 则在财报前集中止盈太空、半导体和光通信仓位。方向尚未全面转空，但持仓管理明显更防御。",
+      "topic": "半导体仍偏多，但内部逻辑分化",
+      "summary": "labubu_trader 明确做多半导体并看好 VXSMH；ShanghaoJin 认为旧款 A100 仍可产生推理收入并继续出租，反对新品出现即让旧 GPU 失去经济价值，同时对韩国存储厂商的治理与定价提出强烈质疑。方向偏多，但硬件寿命、厂商治理和标的选择比板块口号更关键。",
       "confidence": "high"
     },
     {
       "id": "e3",
-      "topic": "CPI 成为短线仓位切换点",
-      "summary": "maitian99 主张周三 CPI 当日保持中性，并以一份末日期权对冲；Corsica267 认为普通降息未必能让长短债同时受益，除非通过压制资金需求甚至制造衰退完成清算；BabybusFL 则仍把后续降息视为风险资产冲顶催化。数据公布后的利率、美元和风险资产联动是最重要的验证点。",
+      "topic": "AI 与工业扩张的瓶颈转向电力、人才和估值",
+      "summary": "Corsica267 认为美国缺少熟练产业工人，并指出 EME、FIX、PWR 已贵得难以下手；其对 CPI 的判断也建立在资本扩张融资需求仍强的框架上。资本开支主线没有消失，但劳动力供给、工程执行和当前估值正在压缩可复制的上行空间。",
       "confidence": "high"
     },
     {
       "id": "e4",
-      "topic": "半导体与科技股从追主题转向看融资、指引和事件风险",
-      "summary": "ShanghaoJin 把 INTC 股票发行扩容视为需求强的信号；labubu_trader 认为 AAOI 当期指标一般但远期指引积极，同时警惕 LITE/COHR 财报前技术面风险；BabybusFL 对 META 有较强兴趣、暂不考虑 SPCX。市场仍愿意给成长资产溢价，但融资承接力和财报信息优势正在决定仓位。",
-      "confidence": "high"
+      "topic": "热门成长股应等情绪降温，而非追逐讨论热度",
+      "summary": "BabybusFL 暂不建议参与其正文写作“specx”的争议标的，计划等市场无人讨论时再买；同时把 META 列为最高优先级。maitian99 则警告下一轮投机退潮可能落在黄金或软件。当前更适合区分仍有催化的核心资产与已经拥挤的题材。",
+      "confidence": "medium"
     },
     {
       "id": "e5",
-      "topic": "中国科技公司的产品力与治理评价出现分离",
-      "summary": "TaoRay 根据个人经历认可华为网络方案的实用性、稳定性和服务，也认为华为与宁德时代较能让技术人才发挥作用；但同时批评激进企业文化、政企关系和产业政策造成的市场扭曲，并强调企业应同时服务消费者和股东。其观点是“产品与人才机制可取，治理与竞争环境仍有问题”。",
-      "confidence": "high"
+      "topic": "加密项目与内容平台的信任风险升温",
+      "summary": "ShanghaoJin 对加密项目的估值、上市承诺和盈利真实性持极端负面看法；TaoRay 则批评 YouTube 的 AI 审核与缺乏人工申诉渠道。两类观点都指向同一问题：当项目或平台缺少透明、可验证的治理机制时，技术叙事本身不足以支撑信任。",
+      "confidence": "medium"
     }
   ],
   "accounts": [
     {
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
-      "lastActiveAt": "2026-08-11T13:10:04.000Z",
-      "activityCount": 29,
+      "lastActiveAt": "2026-08-12T10:44:57.000Z",
+      "activityCount": 34,
       "stance": "mixed",
-      "headline": "看多 INTC 融资需求与美股动量，偏好长期持有强势个股；同时警告杠杆下跌非线性，并转为谨慎看待 BTC 流动性。",
+      "headline": "看好 INTC 融资需求与旧款 GPU 的经济寿命，但看空加密项目，并批评韩国存储厂商的治理与定价。",
       "summaries": [
         {
           "id": "sh-1",
-          "postedAt": "2026-08-11T12:24:51.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2087153268082487351",
-          "summary": "作者把 INTC 股票发行规模从 150 亿美元上调至 200 亿美元视为非常直接的需求信号，表达对本次融资承接力的乐观判断；引用区内的发行价格和认购金额没有计入作者主张。",
-          "topics": ["INTC", "股票发行", "机构需求", "融资"],
-          "stance": "bullish",
-          "confidence": "high"
+          "postedAt": "2026-08-12T09:53:49.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2087477646850654634",
+          "summary": "作者贬低其所称的“Metamusk”项目，质疑其估值、上市承诺和盈利真实性，并进一步声称币圈项目普遍缺乏质量。项目名称、估值和盈利相关说法未独立核验。",
+          "topics": ["加密货币", "Metamusk", "估值", "盈利质量"],
+          "stance": "bearish",
+          "confidence": "medium"
         },
         {
           "id": "sh-2",
-          "postedAt": "2026-08-11T11:17:52.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2087136411132825960",
-          "summary": "作者认为从预期收益与波动率之比看，VOO 不如动量股票；指数低波动虽可支持杠杆，但危机中的尾部波动使散户很难风控，因此更偏好不依赖指数杠杆的动量个股。该相对绩效判断未独立回测。",
-          "topics": ["VOO", "标普 500", "动量因子", "杠杆", "尾部风险"],
-          "stance": "bullish",
-          "confidence": "high"
+          "postedAt": "2026-08-12T04:37:29.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2087398040151970099",
+          "summary": "作者虽然批评 Jensen 对华尔街的资本运作态度，但称他谈 GPU 折旧时是“真诚的”；这只反映作者对其表达动机的判断，不等于认同引用区内的完整技术论证。",
+          "topics": ["NVDA", "GPU", "折旧", "管理层沟通"],
+          "stance": "neutral",
+          "confidence": "medium"
         },
         {
           "id": "sh-3",
-          "postedAt": "2026-08-11T10:31:44.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2087124802113028483",
-          "summary": "作者认为买个股不等于不专业，并称热门股票在部分议员组合中的平均权重高于基金，自己也偏好像 Nancy Pelosi 一样长期持有个股；以 INTC 为例的组合权重观察未独立核验。",
-          "topics": ["个股投资", "INTC", "组合权重", "长期持有"],
-          "stance": "bullish",
+          "postedAt": "2026-08-12T04:16:51.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2087392848614465822",
+          "summary": "作者认为存储需求本身没有问题，问题主要出在两家韩国厂商的治理和定价；其对 SK 集团关联交易及三星中层奖金激励的具体指控均未独立核验。",
+          "topics": ["HBM", "SK 海力士", "三星", "存储", "公司治理"],
+          "stance": "mixed",
           "confidence": "medium"
         },
         {
           "id": "sh-4",
-          "postedAt": "2026-08-11T09:42:10.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2087112330333261852",
-          "summary": "作者形容杠杆“坐扶梯上涨、坐电梯下跌”，强调杠杆繁荣会逐步推高资产，但去杠杆时价格往往突然跌过头，是明确的非线性回撤警告。",
-          "topics": ["杠杆", "去杠杆", "尾部风险", "风险管理"],
-          "stance": "bearish",
+          "postedAt": "2026-08-12T03:10:52.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2087376240781255005",
+          "summary": "作者认为 AI 空头错误套用了串行计算时代的芯片迭代逻辑；其核心判断是旧款 A100 仍可产生推理 token 并继续出租，因此不会因新品发布而迅速失去经济价值。技术与出租需求判断未独立核验。",
+          "topics": ["A100", "GPU", "AI 推理", "云计算", "资产寿命"],
+          "stance": "bullish",
           "confidence": "high"
         },
         {
           "id": "sh-5",
-          "postedAt": "2026-08-11T05:49:45.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2087053837408645593",
-          "summary": "作者称自己现在对 BTC“有点悬”，并以部分高等级交易者活跃度或资金层级下降作为市场“没有鱼”的轶事证据，暗示流动性和新增参与者不足。样本与指标含义未说明，结论未独立核验。",
-          "topics": ["BTC", "加密市场", "流动性", "市场参与度"],
-          "stance": "bearish",
-          "confidence": "low"
+          "postedAt": "2026-08-11T12:24:51.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2087153268082487351",
+          "summary": "作者把 INTC 股票发行规模从 150 亿美元上调至 200 亿美元视为非常明确的需求信号，表达对融资承接力的乐观判断；引用区内的认购额和发行价没有计入作者观点。",
+          "topics": ["INTC", "股票发行", "融资需求", "机构承接"],
+          "stance": "bullish",
+          "confidence": "high"
         }
       ]
     },
     {
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
-      "lastActiveAt": "2026-08-11T05:51:27.000Z",
-      "activityCount": 20,
+      "lastActiveAt": "2026-08-12T11:44:25.000Z",
+      "activityCount": 4,
       "stance": "mixed",
-      "headline": "预期降息前风险资产完成最后冲顶、随后美元走强与多资产共跌；当前提醒高倍黄金产品止盈，并关注 META 等科技股。",
+      "headline": "暂避市场热议的争议成长股，计划等讨论热度消退后再买；同时把 META 列为当前最高优先级。",
       "summaries": [
         {
           "id": "bb-1",
-          "postedAt": "2026-08-11T03:35:46.000Z",
-          "url": "https://x.com/BabybusFL/status/2087020122896552289",
-          "summary": "作者复盘称自己曾建议在伊朗冲突前买入石油与 CNQ，并曾把布伦特原油 120 附近视为顶部；对于当前做空石油的提议，他认为时点太早，应该更耐心。历史判断和价格均未独立核验。",
-          "topics": ["石油", "CNQ", "布伦特原油", "做空时机"],
-          "stance": "mixed",
+          "postedAt": "2026-08-12T09:45:56.000Z",
+          "url": "https://x.com/BabybusFL/status/2087475664240648533",
+          "summary": "作者暂不建议参与正文写作“specx”的标的，认为它正处于舆论中心；计划等市场几乎无人讨论时再买，体现“冷清时买入、情绪亢奋时卖出”的逆向交易原则。该拼写可能指 SPCX，但作者正文未明确确认。",
+          "topics": ["specx（原文）", "逆向交易", "市场情绪", "择时"],
+          "stance": "bearish",
           "confidence": "medium"
         },
         {
           "id": "bb-2",
-          "postedAt": "2026-08-11T03:32:22.000Z",
-          "url": "https://x.com/BabybusFL/status/2087019264226070622",
-          "summary": "作者认为今年不会立即发生最终崩盘，下半年即使回调，仍会借降息利好完成“最后一舞”和冲顶，期间波动会明显放大；其路径预测是有色与 BTC 先涨、美元先跌，后期美元转强，股票、债券、黄金与加密资产再同步下跌。作者承认细节尚未规划，路径未独立核验。",
-          "topics": ["降息", "美元", "美股", "美债", "黄金", "BTC", "有色金属"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "bb-3",
-          "postedAt": "2026-08-11T03:28:13.000Z",
-          "url": "https://x.com/BabybusFL/status/2087018222050476180",
-          "summary": "作者警告普通投资者不要继续参与其所称的“六倍黄金”产品，称前期短线涨幅已约 70%、后续进入高风险阶段，建议止盈并避免因盈利而提高风险偏好。具体产品名称只在引用区，未写入摘要；涨幅和杠杆倍数未独立核验。",
-          "topics": ["黄金", "高杠杆产品", "止盈", "风险控制"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "bb-4",
-          "postedAt": "2026-08-11T03:25:08.000Z",
-          "url": "https://x.com/BabybusFL/status/2087017443583471884",
-          "summary": "作者称买入 QQQ 末日期权看跌仓位后很快进入价内，随后立即卖出，属于已完成的短线对冲或彩票式交易，并非持续持有的看空观点。",
-          "topics": ["QQQ", "0DTE", "看跌期权", "短线交易"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "bb-5",
-          "postedAt": "2026-08-11T03:13:37.000Z",
-          "url": "https://x.com/BabybusFL/status/2087014548041498725",
-          "summary": "作者表示暂时不考虑 SPCX，但对 META“很有想法”，形成对两只成长股的明显偏好差异；未给出估值、仓位或风控条件。",
-          "topics": ["META", "SPCX", "成长股", "标的选择"],
-          "stance": "mixed",
+          "postedAt": "2026-08-12T09:45:00.000Z",
+          "url": "https://x.com/BabybusFL/status/2087475429699424749",
+          "summary": "作者认为 META 目前是最高优先级标的，并声称其随时可能快速上涨。正文前半句“可以买”缺少明确指代，未擅自归为引用区出现的 INTC。",
+          "topics": ["META", "科技股", "优先级", "上涨催化"],
+          "stance": "bullish",
           "confidence": "high"
         }
       ]
@@ -158,101 +131,83 @@
     {
       "handle": "Franktradinglog",
       "profileUrl": "https://x.com/Franktradinglog",
-      "lastActiveAt": null,
-      "activityCount": 0,
+      "lastActiveAt": "2026-08-12T10:37:49.000Z",
+      "activityCount": 2,
       "stance": "unclear",
-      "headline": "严格过去 24 小时窗口内未捕获到该账号本人更新。",
+      "headline": "两条本人更新都缺少具体标的上下文，无法可靠转化为市场方向或仓位观点。",
       "summaries": []
     },
     {
       "handle": "labubu_trader",
       "profileUrl": "https://x.com/labubu_trader",
-      "lastActiveAt": "2026-08-11T05:28:18.000Z",
-      "activityCount": 13,
-      "stance": "mixed",
-      "headline": "财报前集中止盈太空、半导体与光通信仓位；认为 AAOI 远景较亮，但警惕 LITE/COHR 的技术面与财报风险。",
+      "lastActiveAt": "2026-08-11T19:31:59.000Z",
+      "activityCount": 2,
+      "stance": "bullish",
+      "headline": "明确做多半导体，并看好 VXSMH；但没有给出时间周期、仓位或风险条件。",
       "summaries": [
         {
           "id": "la-1",
-          "postedAt": "2026-08-10T15:52:59.000Z",
-          "url": "https://x.com/labubu_trader/status/2086843261076025363",
-          "summary": "作者认为 AAOI 本次财报的当期指标较平庸，但公司给出的未来前景非常积极，属于“短期数据一般、远期指引偏多”的判断。财报评价未独立核验。",
-          "topics": ["AAOI", "财报", "业绩指引", "光通信"],
-          "stance": "mixed",
+          "postedAt": "2026-08-11T19:31:59.000Z",
+          "url": "https://x.com/labubu_trader/status/2087260762465255734",
+          "summary": "作者明确表示做多半导体板块，但未给出具体个股、时间周期或风险条件。",
+          "topics": ["半导体", "做多", "板块交易"],
+          "stance": "bullish",
           "confidence": "high"
         },
         {
           "id": "la-2",
-          "postedAt": "2026-08-10T15:33:40.000Z",
-          "url": "https://x.com/labubu_trader/status/2086838400804692196",
-          "summary": "作者观察到 LITE 和 COHR 出现大型看跌吞没 K 线，担心可能与财报前对冲或内部人士预知业绩不佳有关；本人明确表示不确定，内幕联想属于未核验猜测。",
-          "topics": ["LITE", "COHR", "看跌吞没", "财报风险", "光通信"],
-          "stance": "bearish",
-          "confidence": "low"
-        },
-        {
-          "id": "la-3",
-          "postedAt": "2026-08-10T15:30:12.000Z",
-          "url": "https://x.com/labubu_trader/status/2086837525948276955",
-          "summary": "作者在财报前止盈 TSEM、SMTC、RKLB 和 SPCX，并止损 LITE；SPCX 以 135 美元限价卖出。其原则是在没有相对市场的信息优势时不押注财报，体现集中降风险。",
-          "topics": ["TSEM", "SMTC", "LITE", "RKLB", "SPCX", "财报", "止盈"],
-          "stance": "bearish",
-          "confidence": "high"
+          "postedAt": "2026-08-11T19:19:39.000Z",
+          "url": "https://x.com/labubu_trader/status/2087257657371693299",
+          "summary": "作者称 VXSMH“看起来不错”，表达直接但缺乏论据的多头偏好；标的性质与交易框架未独立核验。",
+          "topics": ["VXSMH", "半导体", "交易标的"],
+          "stance": "bullish",
+          "confidence": "medium"
         }
       ]
     },
     {
       "handle": "Corsica267",
       "profileUrl": "https://x.com/Corsica267",
-      "lastActiveAt": "2026-08-11T10:50:04.000Z",
-      "activityCount": 22,
+      "lastActiveAt": "2026-08-12T09:24:01.000Z",
+      "activityCount": 10,
       "stance": "mixed",
-      "headline": "维持“财政与 AI 争夺储蓄、推高真实利率和原材料”的框架；看好资本开支受益者，警惕长久期资产与滞胀尾部风险。",
+      "headline": "认为 CPI 难改变利率结构，近期长债拍卖与结算主导波动；同时警惕工业股高估值和熟练工人短缺。",
       "summaries": [
         {
           "id": "co-1",
-          "postedAt": "2026-08-11T04:18:42.000Z",
-          "url": "https://x.com/Corsica267/status/2087030926547259473",
-          "summary": "作者维持“投资需求增长快于储蓄”的框架，认为扩表、伊朗局势、日元和美元体系只会放大或暴露问题。若地缘冲击推高油价和风险溢价，或财政进一步扩张并削弱美联储信誉，资金价格的清算可能经历滞胀、美元剧烈波动和股债双杀。该因果路径未独立核验。",
-          "topics": ["滞胀", "美元", "股债双杀", "地缘风险", "财政扩张", "美联储"],
-          "stance": "bearish",
-          "confidence": "high"
+          "postedAt": "2026-08-11T19:48:39.000Z",
+          "url": "https://x.com/Corsica267/status/2087264955611701739",
+          "summary": "作者预期下周一、周二结算，周三 20 年期美债、周四 30 年期相关发行或事件将形成主要资金压力，并认为到周五才可能出现一轮反弹。具体安排和方向预测未独立核验。",
+          "topics": ["美债拍卖", "结算", "流动性", "短线择时"],
+          "stance": "mixed",
+          "confidence": "medium"
         },
         {
           "id": "co-2",
-          "postedAt": "2026-08-11T01:41:14.000Z",
-          "url": "https://x.com/Corsica267/status/2086991296808513995",
-          "summary": "作者认为高资金价格一方面吸引海外资金购买美债，另一方面提高美国对外利息支出、形成持续“失血”，并压低居民储蓄缓冲；中期资金价格能否回落，关键取决于 AI 资本开支是否减速及财政赤字是否收窄。传导关系未独立核验。",
-          "topics": ["美债", "海外资金", "利息支出", "居民储蓄", "AI 资本开支", "财政赤字"],
-          "stance": "bearish",
+          "postedAt": "2026-08-11T19:29:35.000Z",
+          "url": "https://x.com/Corsica267/status/2087260154970730681",
+          "summary": "作者认为次日 CPI 虽会影响价格，却难以改变利率主线；近期结算、长债拍卖、能源反弹和一级交易商持仓需求更可能主导利率。无论 CPI 偏弱还是偏强，资本扩张阶段的融资需求都可能保持韧性，因此不宜机械交易降息或衰退。数据与传导判断未独立核验。",
+          "topics": ["CPI", "美债", "利率", "资本开支", "一级交易商"],
+          "stance": "neutral",
           "confidence": "high"
         },
         {
           "id": "co-3",
-          "postedAt": "2026-08-10T22:52:28.000Z",
-          "url": "https://x.com/Corsica267/status/2086948824950677565",
-          "summary": "作者列出缓解资金与通胀压力的三条政策出口：取消关税并降低进口成本、维持强美元吸引资金并压低进口价格、连续降息或扩表；若三者都做不到，其极端结论是继续加息。政策效果与可行性未独立核验。",
-          "topics": ["关税", "美元", "降息", "扩表", "加息", "通胀"],
-          "stance": "mixed",
+          "postedAt": "2026-08-11T18:46:25.000Z",
+          "url": "https://x.com/Corsica267/status/2087249293162004859",
+          "summary": "作者认为美国工业扩张的关键约束之一是熟练产业工人不足，并称这一长期问题在实际测算资本开支时会迅速暴露；引用区内的 ADP 信息没有计入作者观点。",
+          "topics": ["美国就业", "熟练工人", "工业扩张", "供给约束"],
+          "stance": "bearish",
           "confidence": "high"
         },
         {
           "id": "co-4",
-          "postedAt": "2026-08-10T22:48:29.000Z",
-          "url": "https://x.com/Corsica267/status/2086947823770308745",
-          "summary": "作者用国际收支与储蓄—投资框架解释美国：财政赤字和 AI、数据中心、电力、工业设备投资共同争夺有限储蓄与真实资源，推高真实利率和原材料价格。资本开支受益企业可获得盈利增长，但全市场估值中枢及依赖再融资的长久期资产承压；若资本开支最终转化为生产率和现金流，利率回落也可能不是衰退。文章数据与模型结论未独立核验。",
-          "topics": ["国际收支", "AI 资本开支", "真实利率", "铜", "能源", "工业设备", "长久期资产"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "co-5",
-          "postedAt": "2026-08-10T18:03:41.000Z",
-          "url": "https://x.com/Corsica267/status/2086876152619241569",
-          "summary": "作者认为就业没有表面数据那么强，上游价格在通胀统计中可能被低估；同时认为普通降息难以同时改善长短债，除非通过主动压制资金需求并制造衰退来完成清算。数据与政策效果判断未独立核验。",
-          "topics": ["就业", "上游通胀", "长债", "短债", "降息", "衰退"],
+          "postedAt": "2026-08-11T17:49:00.000Z",
+          "url": "https://x.com/Corsica267/status/2087234843298205980",
+          "summary": "作者认为 EME、FIX 和 PWR 已经贵得难以下手，反映其虽认可电力及工程资本开支主线，但对当前入场价格保持谨慎。",
+          "topics": ["EME", "FIX", "PWR", "工业股", "估值"],
           "stance": "bearish",
-          "confidence": "medium"
+          "confidence": "high"
         }
       ]
     },
@@ -268,36 +223,45 @@
     {
       "handle": "maitian99",
       "profileUrl": "https://x.com/maitian99",
-      "lastActiveAt": "2026-08-11T13:19:39.000Z",
-      "activityCount": 18,
+      "lastActiveAt": "2026-08-12T04:19:00.000Z",
+      "activityCount": 19,
       "stance": "mixed",
-      "headline": "CPI 前主张保持中性并使用末日期权对冲；仍看空 AMD，但已将空头仓位换至其认为更合适的标的，同时提醒冷门股盘前报价受流动性影响。",
+      "headline": "预期 CPI 低于市场预期并以当日到期 TLT 看涨期权对冲；同时警告下一轮投机退潮可能落在黄金或软件。",
       "summaries": [
         {
           "id": "ma-1",
-          "postedAt": "2026-08-11T12:53:21.000Z",
-          "url": "https://x.com/maitian99/status/2087160443278078065",
-          "summary": "作者认为 BG 这类非热门股票盘前流动性不足，成交价格可能失真，不宜把盘前报价直接视为可靠价格信号。",
-          "topics": ["BG", "盘前交易", "流动性", "价格发现"],
-          "stance": "neutral",
+          "postedAt": "2026-08-12T02:53:00.000Z",
+          "url": "https://x.com/maitian99/status/2087371747397906792",
+          "summary": "作者预计次日 CPI 可能低于市场预期，并称已在当日盘中买入当日到期的 TLT 看涨期权作为对冲。这相当于短期押注债券价格受益，但 CPI 预测与仓位均未独立核验。",
+          "topics": ["CPI", "TLT", "美债", "0DTE", "事件对冲"],
+          "stance": "bullish",
           "confidence": "high"
         },
         {
           "id": "ma-2",
-          "postedAt": "2026-08-11T12:47:21.000Z",
-          "url": "https://x.com/maitian99/status/2087158932041044058",
-          "summary": "作者认为周三 CPI 公布当日最好保持中性持仓，并计划使用一份末日期权进行对冲；具体合约、方向和规模未公开。",
-          "topics": ["CPI", "中性仓位", "0DTE", "事件对冲"],
+          "postedAt": "2026-08-12T02:20:20.000Z",
+          "url": "https://x.com/maitian99/status/2087363526625046916",
+          "summary": "作者认为此前两次市场“收割”可能针对同一批参与者，并预测第三轮即将到来，潜在对象可能是黄金或软件板块。表达较口语化，未说明触发条件和时间，预测未独立核验。",
+          "topics": ["黄金", "软件股", "投机风险", "市场回撤"],
+          "stance": "bearish",
+          "confidence": "low"
+        },
+        {
+          "id": "ma-3",
+          "postedAt": "2026-08-11T14:04:14.000Z",
+          "url": "https://x.com/maitian99/status/2087178280608624662",
+          "summary": "作者称今年多次围绕特朗普政策反复进行短线交易，结果干扰了自己的波段交易视角；这体现其对政治事件驱动短线操作的反思。交易结果未独立核验。",
+          "topics": ["事件交易", "特朗普政策", "波段交易", "交易纪律"],
           "stance": "neutral",
           "confidence": "high"
         },
         {
-          "id": "ma-3",
-          "postedAt": "2026-08-10T17:46:34.000Z",
-          "url": "https://x.com/maitian99/status/2086871844452192528",
-          "summary": "作者称平掉 AMD 空头是基于组合整体配置并找到了更适合的替代做空标的，并不代表其认为 AMD 已不会继续下跌；整体仍表达对 AMD 的偏空判断。未来价格判断未独立核验。",
-          "topics": ["AMD", "做空", "组合管理", "仓位替换"],
-          "stance": "bearish",
+          "id": "ma-4",
+          "postedAt": "2026-08-11T12:53:21.000Z",
+          "url": "https://x.com/maitian99/status/2087160443278078065",
+          "summary": "作者提醒，BG 这类非热门股票盘前流动性较差，价格可能失真，不宜把盘前报价直接视为可靠价格信号。",
+          "topics": ["BG", "盘前交易", "流动性", "价格发现"],
+          "stance": "neutral",
           "confidence": "high"
         }
       ]
@@ -305,73 +269,64 @@
     {
       "handle": "BillAckman",
       "profileUrl": "https://x.com/BillAckman",
-      "lastActiveAt": "2026-08-11T00:29:26.000Z",
-      "activityCount": 1,
+      "lastActiveAt": "2026-08-12T00:39:53.000Z",
+      "activityCount": 2,
       "stance": "unclear",
-      "headline": "唯一更新是个人生育经历及对引用报道的质问；具体医学指控全部来自引用区，没有可用市场或政策信号。",
+      "headline": "两条更新均缺乏可独立归因的完整观点；关于 UBER 与自动驾驶的论证全部来自引用区。",
       "summaries": []
     },
     {
       "handle": "TaoRay",
       "profileUrl": "https://x.com/TaoRay",
-      "lastActiveAt": "2026-08-11T11:46:05.000Z",
-      "activityCount": 5,
-      "stance": "mixed",
-      "headline": "认可华为的产品、服务与技术人才机制，同时批评其激进企业文化及产业政策造成的市场扭曲；强调企业应服务消费者和股东。",
+      "lastActiveAt": "2026-08-12T04:06:15.000Z",
+      "activityCount": 2,
+      "stance": "bearish",
+      "headline": "批评 YouTube 的 AI 审核与缺少人工申诉渠道，认为平台治理存在明显倾向性。",
       "summaries": [
         {
           "id": "ta-1",
-          "postedAt": "2026-08-11T03:53:27.000Z",
-          "url": "https://x.com/TaoRay/status/2087024569920192860",
-          "summary": "作者认为企业的商业本质是服务消费者、经营本质是服务股东；不达标产品、欺骗消费者及管理层自利都会伤害员工和股东。他认为华为并非没有问题，但在行业内仍属领先公司。相关评价未独立核验。",
-          "topics": ["华为", "公司治理", "消费者", "股东利益"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "ta-2",
-          "postedAt": "2026-08-11T03:34:46.000Z",
-          "url": "https://x.com/TaoRay/status/2087019869627666468",
-          "summary": "作者根据个人使用经历，认为华为网络方案在实用性、稳定性和服务方面表现很好，并认为华为与宁德时代较能让技术人才发挥作用；但同时批评其激进竞争文化，并认为外部环境和产业政策造成市场扭曲及恶性竞争。个人经历和企业判断未独立核验。",
-          "topics": ["华为", "宁德时代", "企业文化", "产业政策", "市场竞争"],
-          "stance": "mixed",
-          "confidence": "high"
+          "postedAt": "2026-08-12T04:06:15.000Z",
+          "url": "https://x.com/TaoRay/status/2087390178327527612",
+          "summary": "作者根据其他创作者过往仍能与客户经理沟通的经历，认为 YouTube 当前审核具有较强倾向性，并表示会支持内容创作者转向其他选择。相关平台经历未独立核验。",
+          "topics": ["YouTube", "内容审核", "创作者经济", "平台风险"],
+          "stance": "bearish",
+          "confidence": "medium"
         }
       ]
     }
   ],
   "watchItems": [
     {
-      "topic": "周三 CPI 与 0DTE 对冲后的真实仓位",
-      "summary": "maitian99 主张中性持仓并以末日期权对冲；观察数据公布后其是否解除对冲，以及利率、美元、黄金和股指是否出现一致或反向的定价。"
+      "topic": "CPI 后 TLT 0DTE 对冲的兑现",
+      "summary": "maitian99 预计 CPI 低于预期并持有当日到期 TLT 看涨期权；应观察公布后的美债价格、隐含波动率与其是否及时平仓，而不是只验证 CPI 方向。"
     },
     {
-      "topic": "资本开支与储蓄缺口对长端的压力",
-      "summary": "跟踪 AI、数据中心、电力和工业设备资本开支、财政赤字、居民储蓄率、信用利差与长端真实利率，验证 Corsica267 的资金争夺框架是否继续成立。"
+      "topic": "长债拍卖与结算是否压过宏观数据",
+      "summary": "验证 Corsica267 所说的结算、20 年与 30 年期相关事件及一级交易商持仓需求，是否比 CPI 更能解释收益率波动和周五潜在反弹。"
     },
     {
-      "topic": "INTC 融资需求能否转化为股价承接",
-      "summary": "ShanghaoJin 把发行规模扩容视为强需求信号；后续应观察正式定价、配售完成后的抛压和资金用途，而不是把认购热度直接等同于长期回报。"
+      "topic": "旧款 GPU 的利用率和出租价格",
+      "summary": "跟踪 A100 等旧款 GPU 的云端利用率、租金、能耗与折旧政策，检验“新品迭代不等于旧资产迅速失效”的判断。"
     },
     {
-      "topic": "动量个股相对 VOO 的风险调整表现",
-      "summary": "验证强势个股组合是否在不使用杠杆时继续跑赢 VOO，并重点比较回撤、换手、税务和危机期尾部风险，避免只看上涨阶段。"
+      "topic": "韩国存储厂商治理与价格信号",
+      "summary": "ShanghaoJin 的关联交易和奖金激励指控均未核验；应查公司披露、合同与行业价格数据，区分真实需求、治理问题和个人推断。"
     },
     {
-      "topic": "“最后一舞”与美元反转路径",
-      "summary": "BabybusFL 预计有色与 BTC 先涨、美元先跌，随后美元转强并带来股债金币共跌；观察这一跨资产顺序是否出现，而非只验证单一市场涨跌。"
+      "topic": "半导体多头是否扩散到 VXSMH",
+      "summary": "labubu_trader 只给出方向，没有时间周期和风控；观察板块广度、成交、相对强度及 VXSMH 的实际结构，避免把一句看多当成完整交易计划。"
     },
     {
-      "topic": "财报前去风险是否过早",
-      "summary": "labubu_trader 已退出或削减 TSEM、SMTC、LITE、RKLB、SPCX；跟踪正式财报与次日价格，评估“不具信息优势就不押财报”的机会成本和风险收益。"
+      "topic": "EME、FIX、PWR 的估值消化",
+      "summary": "资本开支逻辑仍强，但作者认为价格太贵；观察盈利上修能否追上估值，以及熟练工人短缺是否限制订单转化和利润率。"
     },
     {
-      "topic": "BTC 流动性分歧",
-      "summary": "ShanghaoJin 以参与者减少为由转谨慎，而 BabybusFL 仍把 BTC 列入冲顶前的风险资产主线；后续应看成交、稳定币流入、衍生品杠杆和市场广度。"
+      "topic": "热门成长股的情绪降温",
+      "summary": "BabybusFL 对正文写作“specx”的标的采取等待策略，却把 META 列为最高优先级；跟踪讨论热度、成交拥挤度和基本面催化是否出现分化。"
     },
     {
-      "topic": "华为与宁德时代的产品力和治理分离",
-      "summary": "区分产品稳定性、客户服务、人才机制与产业政策、公司治理、竞争行为，验证 TaoRay 的混合评价，避免把产品体验直接外推为投资结论。"
+      "topic": "黄金与软件的投机退潮风险",
+      "summary": "maitian99 只给出低置信度预警，没有触发条件；后续应观察相对强度、期权偏度、资金流与市场广度是否同步转弱。"
     }
   ]
 }

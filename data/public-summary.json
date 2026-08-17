@@ -1,46 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-14T11:26:31.000Z",
+  "generatedAt": "2026-08-17T10:50:48.000Z",
   "hours": 24,
   "window": {
-    "start": "2026-08-13T11:16:34.460Z",
-    "end": "2026-08-14T11:16:34.460Z",
+    "start": "2026-08-16T10:39:02.729Z",
+    "end": "2026-08-17T10:39:02.729Z",
     "timezone": "America/New_York"
   },
   "stats": {
     "monitoredAccounts": 9,
-    "activeAccounts": 7,
-    "summaryItems": 15
+    "activeAccounts": 6,
+    "summaryItems": 8
   },
   "executiveSummary": [
     {
       "id": "e1",
-      "topic": "AI 风险焦点从资本开支转向融资与信用传导",
-      "summary": "ShanghaoJin 认为 GPU 融资最终可能被华尔街切分为结构化债务并演化成信用风险事件；maitian99 则继续加仓做空 AI 硬件。两人都在提高对 AI 硬件链的风险警惕，但前者担心融资结构，后者表达的是板块战术空头，不能混为同一时间尺度。",
+      "topic": "INTC 获得最强多头表达，但短期仍靠叙事交易",
+      "summary": "ShanghaoJin 明确看好 Intel 的晶圆代工和 CPU 需求，并预测其市值最终达到 2 万亿美元；但他同时承认，公司仍需要时间证明执行与基本面，在此之前股价主要由市场情绪和叙事驱动。强烈长期目标与短期兑现风险必须分开看。",
       "confidence": "high"
     },
     {
       "id": "e2",
-      "topic": "降息交易的质量受到利率与市场广度质疑",
-      "summary": "Corsica267 认为 PPI 后长端收益率下降幅度超出简单政策路径重估，但上涨集中在 NQ、SMH，缺少小盘、等权、金融、工业、铜、BTC 与一级长债需求确认；maitian99 则认为当天长债收益率回落主要由油价下跌而非 PPI 驱动。共同信号是不要把单日价格反应直接解释成基本面全面改善。",
-      "confidence": "high"
-    },
-    {
-      "id": "e3",
-      "topic": "被动基金与仓位结构被视为潜在放大器",
-      "summary": "maitian99 认同 Michael Burry 对被动基金交易占比过高的风险提示；Corsica267 则把缺乏盈利驱动和广度扩散的上涨视为低质量仓位结构事件。两者都在警惕市场结构放大波动，但没有提供可直接量化的触发阈值。",
+      "topic": "2026 年资本开支可能向 NAND 与 CPU 倾斜",
+      "summary": "ShanghaoJin 声称从云服务商一侧获悉，企业正在提高 NAND 与 CPU 在 2026 年资本开支中的占比，并认为 NAND 具有更长的结构性景气周期。该渠道信息没有公开数据佐证，适合作为待验证线索，而不是已确认趋势。",
       "confidence": "medium"
     },
     {
+      "id": "e3",
+      "topic": "KOL 多头情绪被视为负面舆情信号",
+      "summary": "ShanghaoJin 把高流量 KOL 的回复与点赞量视为舆情样本，并明确称“舆情看多”是极负面信号；在加密市场，他认为 KOL 更接近纯市场情绪。这个舆情框架尚未看到独立回测，不能直接替代价格、仓位与资金流数据。",
+      "confidence": "high"
+    },
+    {
       "id": "e4",
-      "topic": "短线仓位更偏等待确认，而非追涨或重仓押空",
-      "summary": "Corsica267 表示周四前基本不动，即便做空也只会小仓跟随财政部节奏，并观测资金价格容忍度是否发生 regime change；其在 PPI 后即使遇到高开也不追。整体更像等待确认的风险控制，而非已经形成新的单边共识。",
+      "topic": "交易系统应看期望值，而非只看胜率",
+      "summary": "maitian99 认为评价交易系统时，“高期望值”比“高胜率”更准确。核心含义是胜率不能单独衡量策略质量，还需要结合盈亏比和尾部损失；该帖没有提供具体系统参数。",
       "confidence": "high"
     },
     {
       "id": "e5",
-      "topic": "AI 的非市场风险集中于治理与监控",
-      "summary": "TaoRay 本轮没有新的具体资产交易，而是推演 AI、云算力、大数据、具身智能与机器人被用于永久化社会控制的风险。他认为技术、资金、集中控制力和长期统治野心必须同时具备；这是长期治理情景，不是已发生事实或短线交易信号。",
+      "topic": "创业债务豁免可能带来额外税务风险",
+      "summary": "Bill Ackman 反对 Ro Khanna 的创业融资方案，认为公司失败后，创始人可能同时面对破产和债务豁免收入税，并质疑其缴税能力。这是作者对政策、税务与法律后果的主张，尚未独立核验。",
       "confidence": "medium"
     }
   ],
@@ -48,53 +48,53 @@
     {
       "handle": "ShanghaoJin",
       "profileUrl": "https://x.com/ShanghaoJin",
-      "lastActiveAt": "2026-08-14T10:22:31.000Z",
-      "activityCount": 29,
+      "lastActiveAt": "2026-08-17T02:00:23.000Z",
+      "activityCount": 20,
       "stance": "mixed",
-      "headline": "披露持有 INTC、NOK、GOOG；认为美债不会爆，但 GPU 融资可能最终演化成结构化债务信用危机。",
+      "headline": "强烈看好 INTC、CPU 与 NAND 资本开支周期，但承认 INTC 兑现业绩前仍主要交易叙事；同时把 KOL 多头情绪视为负面信号。",
       "summaries": [
         {
           "id": "sh-1",
-          "postedAt": "2026-08-14T10:22:31.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2088209648818245796",
-          "summary": "作者明确否认自己曾推荐小市值股票；该帖只澄清其投资偏好边界，没有给出新的具体买卖信号。",
-          "topics": ["小市值股票", "投资偏好", "风险边界"],
-          "stance": "neutral",
-          "confidence": "high"
-        },
-        {
-          "id": "sh-2",
-          "postedAt": "2026-08-14T10:12:01.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2088207005286863245",
-          "summary": "作者否认把全部资金集中于少数股票，并自述还持有 INTC、NOK 和 GOOG，显示组合至少包含多个科技及通信标的；实际仓位比例未披露。",
-          "topics": ["INTC", "NOK", "GOOG", "持仓", "分散配置"],
-          "stance": "mixed",
-          "confidence": "high"
-        },
-        {
-          "id": "sh-3",
-          "postedAt": "2026-08-14T08:37:26.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2088183203471519909",
-          "summary": "作者直接判断美国国债不会发生“爆雷”或系统性崩溃，但没有给出期限、机制或可证伪条件。该宏观判断未独立核验。",
-          "topics": ["美债", "系统性风险", "信用风险"],
-          "stance": "bullish",
-          "confidence": "medium"
-        },
-        {
-          "id": "sh-4",
-          "postedAt": "2026-08-14T07:52:16.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2088171833908723915",
-          "summary": "作者质疑 Jensen 推动 GPU 融资的动机，认为华尔街最终可能把相关融资切分为结构化债务，并演化成大型信用风险事件；他还认为 Jensen 可能因此成为替罪羊并损失声誉。该路径属于作者预测，未独立核验；引用区旧帖未计入。",
-          "topics": ["GPU 融资", "结构化债务", "信用危机", "NVDA", "Jensen Huang"],
+          "postedAt": "2026-08-17T01:31:19.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2089163129129508997",
+          "summary": "作者把高流量 KOL 的回复和点赞量视为舆情指标，认为不必判断其观点是否正确；币圈 KOL 因更接近纯市场情绪而尤其适合训练舆情模型。他明确称“舆情看多”是极负面信号。该框架有效性未独立回测。",
+          "topics": ["市场情绪", "KOL", "负面信号", "AI 舆情", "加密市场"],
           "stance": "bearish",
           "confidence": "high"
         },
         {
+          "id": "sh-2",
+          "postedAt": "2026-08-16T15:36:10.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2089013356049178714",
+          "summary": "作者声称从云服务商一侧获悉，企业正在提高 NAND 与 CPU 在 2026 年资本开支中的占比，并认为 NAND 具有结构性更长的景气周期。该渠道消息与周期判断未独立核验。",
+          "topics": ["NAND", "CPU", "云服务商", "资本开支", "2026"],
+          "stance": "bullish",
+          "confidence": "medium"
+        },
+        {
+          "id": "sh-3",
+          "postedAt": "2026-08-16T13:06:35.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2088975711105396994",
+          "summary": "作者称自己毫不怀疑 INTC 市值将达到 2 万亿美元，并认为实现所需时间不会很长。这是极强的个人估值预测，没有给出时间表、盈利假设或估值模型，未独立核验。",
+          "topics": ["INTC", "Intel", "2 万亿美元", "市值预测"],
+          "stance": "bullish",
+          "confidence": "high"
+        },
+        {
+          "id": "sh-4",
+          "postedAt": "2026-08-16T13:05:24.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2088975411762139545",
+          "summary": "作者同时承认 INTC 需要时间证明执行和基本面，在兑现之前股价仍会主要按市场情绪与叙事交易，为其强烈长期看多增加了短期风险限定。",
+          "topics": ["INTC", "执行风险", "基本面", "市场叙事"],
+          "stance": "mixed",
+          "confidence": "high"
+        },
+        {
           "id": "sh-5",
-          "postedAt": "2026-08-14T06:16:44.000Z",
-          "url": "https://x.com/ShanghaoJin/status/2088147794767081513",
-          "summary": "作者认为在 Jensen 主导的竞争格局中很难正面胜出，但若 GPU 出现供给短缺，AMD 仍可能获得机会。这是对 AMD 的条件性利好判断，未独立核验。",
-          "topics": ["AMD", "NVDA", "GPU 短缺", "竞争格局"],
+          "postedAt": "2026-08-16T12:39:52.000Z",
+          "url": "https://x.com/ShanghaoJin/status/2088968989183787219",
+          "summary": "作者认为晶圆代工需求和 CPU 需求都非常稳固，并称时间站在 INTC 一边，表达对 Intel 中期基本面改善的明确乐观判断。需求判断未独立核验。",
+          "topics": ["INTC", "晶圆代工", "CPU", "需求", "基本面"],
           "stance": "bullish",
           "confidence": "high"
         }
@@ -103,72 +103,45 @@
     {
       "handle": "BabybusFL",
       "profileUrl": "https://x.com/BabybusFL",
-      "lastActiveAt": "2026-08-13T22:05:11.000Z",
-      "activityCount": 1,
+      "lastActiveAt": null,
+      "activityCount": 0,
       "stance": "unclear",
-      "headline": "唯一更新为个人互动，没有可安全归属的资产、宏观或仓位观点。",
+      "headline": "严格过去 24 小时窗口内未捕获到该账号本人更新。",
       "summaries": []
     },
     {
       "handle": "Franktradinglog",
       "profileUrl": "https://x.com/Franktradinglog",
-      "lastActiveAt": "2026-08-13T18:37:38.000Z",
-      "activityCount": 7,
+      "lastActiveAt": null,
+      "activityCount": 0,
       "stance": "unclear",
-      "headline": "提到突破确认后重仓及交易获利，但完全没有标的上下文，无法安全转化为市场观点。",
+      "headline": "严格过去 24 小时窗口内未捕获到该账号本人更新。",
       "summaries": []
     },
     {
       "handle": "labubu_trader",
       "profileUrl": "https://x.com/labubu_trader",
-      "lastActiveAt": "2026-08-14T04:57:32.000Z",
-      "activityCount": 2,
+      "lastActiveAt": "2026-08-16T17:27:22.000Z",
+      "activityCount": 1,
       "stance": "unclear",
-      "headline": "两条更新均为缺少人物、事件或资产上下文的个人互动，没有可安全归属的交易观点。",
+      "headline": "唯一更新为订阅互动，没有可归属的资产、宏观或交易观点。",
       "summaries": []
     },
     {
       "handle": "Corsica267",
       "profileUrl": "https://x.com/Corsica267",
-      "lastActiveAt": "2026-08-14T09:16:37.000Z",
-      "activityCount": 18,
-      "stance": "mixed",
-      "headline": "周四前倾向观望，仅考虑跟随财政部节奏小仓做空；警惕资金价格机制变化与缺乏基本面扩散的弱质量上涨。",
+      "lastActiveAt": "2026-08-17T01:55:22.000Z",
+      "activityCount": 3,
+      "stance": "neutral",
+      "headline": "主要讨论房地产建筑与社区质量，认为房龄标签本身不足以判断物业价值。",
       "summaries": [
         {
           "id": "co-1",
-          "postedAt": "2026-08-14T09:16:37.000Z",
-          "url": "https://x.com/Corsica267/status/2088193063449772285",
-          "summary": "作者称周四之前基本不准备调整仓位；若做空，也只会跟随财政部节奏小仓参与。他怀疑市场对资金价格的容忍度可能发生 regime change，因此要等待进一步确认。该机制变化尚未核验。",
-          "topics": ["仓位管理", "财政部", "资金价格", "Regime Change", "做空"],
+          "postedAt": "2026-08-16T11:33:26.000Z",
+          "url": "https://x.com/Corsica267/status/2088952270235009267",
+          "summary": "作者认为房地产的“新旧”需要结合建造周期判断：经济衰退期建成的新房质量反而可能较差，而超过 30 年的老社区也不应仅因成熟而接受。该观点更接近物业尽调与质量筛选，不构成房地产市场方向判断。",
+          "topics": ["房地产", "房龄", "建造周期", "物业质量", "尽调"],
           "stance": "neutral",
-          "confidence": "high"
-        },
-        {
-          "id": "co-2",
-          "postedAt": "2026-08-14T05:37:35.000Z",
-          "url": "https://x.com/Corsica267/status/2088137941218722100",
-          "summary": "作者以反讽口吻称自己不想再做空长债，但同时表示近期没有其他交易比做空长债更赚钱，说明其长债空头逻辑仍然有效，只是交易过程十分折磨。实际收益未独立核验。",
-          "topics": ["长债", "做空", "美债收益率", "交易绩效"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "co-3",
-          "postedAt": "2026-08-14T05:35:50.000Z",
-          "url": "https://x.com/Corsica267/status/2088137500057539005",
-          "summary": "作者观察到利率上涨并回到盘前结构；股指估值未必立即回落，但若约 5bp 的利率变化没有对应的盈利或基本面分子驱动，当前上涨更可能是仓位结构事件，属于较低质量增长。数据和因果判断未独立核验。",
-          "topics": ["利率", "股指估值", "仓位结构", "盈利驱动", "市场质量"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "co-4",
-          "postedAt": "2026-08-13T21:47:21.000Z",
-          "url": "https://x.com/Corsica267/status/2088019601162686827",
-          "summary": "作者认为 PPI 后的利率与风险资产反应令其不安：10 年期收益率下降幅度大于简单政策路径重估，但上涨集中在 NQ、SMH 等高久期弹性资产，没有 IWM、等权指数、金融、工业、铜、BTC 或一级长债需求确认。他怀疑行情由仓位与库存推动，表示次日即使高开也不追，并观望至下周二。所有市场数据和归因未独立核验。",
-          "topics": ["PPI", "10 年期美债", "NQ", "SMH", "市场广度", "库存风险"],
-          "stance": "bearish",
           "confidence": "high"
         }
       ]
@@ -185,45 +158,18 @@
     {
       "handle": "maitian99",
       "profileUrl": "https://x.com/maitian99",
-      "lastActiveAt": "2026-08-14T06:06:24.000Z",
-      "activityCount": 26,
-      "stance": "mixed",
-      "headline": "把被动基金交易占比过高视为结构性风险；继续持有 AI 硬件空头但强调并非全仓，并认为长债回落主要由油价驱动。",
+      "lastActiveAt": "2026-08-17T04:18:09.000Z",
+      "activityCount": 14,
+      "stance": "neutral",
+      "headline": "本轮唯一可独立归纳的观点是：交易系统应追求高期望值，而非单纯追求高胜率。",
       "summaries": [
         {
           "id": "ma-1",
-          "postedAt": "2026-08-14T06:04:26.000Z",
-          "url": "https://x.com/maitian99/status/2088144699915751453",
-          "summary": "作者认同 Michael Burry 提示的一项美股重大风险：被动基金交易占比已经过高，可能放大市场结构脆弱性。该风险判断来自作者转述和认同，实际占比及传导机制未独立核验。",
-          "topics": ["被动基金", "市场结构", "Michael Burry", "系统性风险"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-2",
-          "postedAt": "2026-08-13T22:53:00.000Z",
-          "url": "https://x.com/maitian99/status/2088036123238936780",
-          "summary": "作者观察到 PPI 公布后长债收益率最初没有下跌，直到油价随后走低才开始回落，因此认为当天债券行情主要受原油而非 PPI 驱动。该日内因果归因未独立核验。",
-          "topics": ["PPI", "原油", "美债收益率", "通胀预期"],
+          "postedAt": "2026-08-16T14:14:53.000Z",
+          "url": "https://x.com/maitian99/status/2088992900369580122",
+          "summary": "作者认为评价交易系统时，“高期望值”比“高胜率”更准确，强调单笔胜率并非策略质量的核心衡量标准。",
+          "topics": ["交易系统", "期望值", "胜率", "策略评估"],
           "stance": "neutral",
-          "confidence": "medium"
-        },
-        {
-          "id": "ma-3",
-          "postedAt": "2026-08-13T18:49:05.000Z",
-          "url": "https://x.com/maitian99/status/2087974741437030542",
-          "summary": "作者澄清自己确有 AI 硬件空头，但这不代表全仓做空，也不是每天持续做空；应把该观点理解为组合中的局部战术仓位。实际仓位未独立核验。",
-          "topics": ["AI 硬件", "做空", "仓位管理", "风险敞口"],
-          "stance": "bearish",
-          "confidence": "high"
-        },
-        {
-          "id": "ma-4",
-          "postedAt": "2026-08-13T18:21:00.000Z",
-          "url": "https://x.com/maitian99/status/2087967671128047832",
-          "summary": "作者称当天进一步加仓做空 AI 硬件，表明其当时仍偏空该板块；交易和仓位均为作者自述，未独立核验。",
-          "topics": ["AI 硬件", "加仓做空", "板块交易"],
-          "stance": "bearish",
           "confidence": "high"
         }
       ]
@@ -231,73 +177,60 @@
     {
       "handle": "BillAckman",
       "profileUrl": "https://x.com/BillAckman",
-      "lastActiveAt": null,
-      "activityCount": 0,
-      "stance": "unclear",
-      "headline": "严格过去 24 小时窗口内未捕获到该账号本人更新。",
-      "summaries": []
-    },
-    {
-      "handle": "TaoRay",
-      "profileUrl": "https://x.com/TaoRay",
-      "lastActiveAt": "2026-08-14T08:02:28.000Z",
-      "activityCount": 10,
+      "lastActiveAt": "2026-08-16T22:39:50.000Z",
+      "activityCount": 1,
       "stance": "bearish",
-      "headline": "本轮没有新的具体资产交易，集中警告 AI、大数据、云计算与具身机器人结合后可能形成难以逆转的数字化极权系统。",
+      "headline": "反对 Ro Khanna 的创业融资方案，认为失败创业者可能同时面临破产与债务豁免税负。",
       "summaries": [
         {
-          "id": "ta-1",
-          "postedAt": "2026-08-14T03:31:13.000Z",
-          "url": "https://x.com/TaoRay/status/2088106139573727505",
-          "summary": "作者认为建立“云端极权”需要同时具备技术与资金、绝对落地控制力，以及领导者长期统治野心；其判断朝鲜缺技术，美国则因三权分立和州权而缺乏集中控制力。该政治技术判断未独立核验，作者也没有明确指出哪一国家最可能率先实现。",
-          "topics": ["AI 治理", "数字监控", "政治制度", "技术风险"],
-          "stance": "bearish",
-          "confidence": "medium"
-        },
-        {
-          "id": "ta-2",
-          "postedAt": "2026-08-14T03:15:05.000Z",
-          "url": "https://x.com/TaoRay/status/2088102079898485091",
-          "summary": "作者提出一种长期风险情景：领导者可用自身思维训练 AI，再结合云算力、大数据、监控系统、具身智能和人形机器人，建立永久化的社会控制；他认为具身智能和机器人是尚待成熟的关键拼图。该情景属于作者推演，并非已发生事实。",
-          "topics": ["人工智能", "具身智能", "人形机器人", "大数据监控", "治理风险"],
+          "id": "ba-1",
+          "postedAt": "2026-08-16T22:39:50.000Z",
+          "url": "https://x.com/BillAckman/status/2089119972828049410",
+          "summary": "作者批评 Ro Khanna 的方案，称公司失败后，创始人获得的债务豁免可能构成按普通税率征税的债务豁免收入；他质疑破产创始人如何筹措税款，并声称最终可能遭遇长期工资扣押。税务及法律后果均为作者主张，未独立核验。",
+          "topics": ["创业融资", "债务豁免", "税务", "破产", "Ro Khanna"],
           "stance": "bearish",
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "handle": "TaoRay",
+      "profileUrl": "https://x.com/TaoRay",
+      "lastActiveAt": "2026-08-17T05:34:03.000Z",
+      "activityCount": 2,
+      "stance": "unclear",
+      "headline": "两条更新均讨论电影与邪典文化，没有市场、宏观或公司投资信号。",
+      "summaries": []
     }
   ],
   "watchItems": [
     {
-      "topic": "GPU 融资是否进入结构化债务链条",
-      "summary": "跟踪设备融资、租赁、ABS/结构化产品、承销条款和违约保护，验证 ShanghaoJin 所担心的信用传导是否真正出现，而不是只停留在类比。"
+      "topic": "INTC 的 2 万亿美元市值预测",
+      "summary": "这是本轮最激进的单一公司目标，但没有时间、利润或估值模型。后续需要用制程兑现、代工客户、CPU 份额、利润率与资本需求逐步验证。"
     },
     {
-      "topic": "AI 硬件空头的仓位变化",
-      "summary": "maitian99 称已加仓但不是全仓做空；观察后续是否披露减仓、止损或标的，以及半导体相对 M7、软件和大盘的表现。"
+      "topic": "INTC 从叙事交易转向基本面兑现",
+      "summary": "观察公司是否给出可验证的客户、产能、良率、订单和自由现金流进展；在这些数据出现前，应把强烈长期目标与短期高波动分开管理。"
     },
     {
-      "topic": "PPI 后长债行情究竟由什么驱动",
-      "summary": "对比油价、通胀互换、政策路径、10年与30年期收益率及拍卖数据，检验原油归因与政策重估各自解释了多少利率变化。"
+      "topic": "2026 年 NAND 与 CPU 资本开支占比",
+      "summary": "跟踪主要云服务商的预算、采购订单、服务器配置和存储厂商指引，验证所谓资本开支份额提升是否在公开数据中出现。"
     },
     {
-      "topic": "市场广度与低质量上涨",
-      "summary": "继续观察 NQ/SMH 与 IWM、RSP、金融、工业、铜、BTC 的相对表现；若上涨仍高度集中而盈利预期不扩散，Corsica267 的仓位结构判断更值得重视。"
+      "topic": "KOL 多头舆情能否形成可验证信号",
+      "summary": "需要按资产、时间尺度、互动量和市场状态做样本外回测，并控制价格已上涨后 KOL 才转多的滞后效应，避免把直觉当成稳定因子。"
     },
     {
-      "topic": "被动基金的结构性风险",
-      "summary": "maitian99 没有给出占比、触发机制或时间；应跟踪被动资金流、集中度、再平衡冲击、期权对冲和流动性，而不是仅凭“占比高”得出崩盘结论。"
+      "topic": "交易系统的期望值而非胜率",
+      "summary": "评估策略时同时记录胜率、平均盈利、平均亏损、尾部损失、费用和容量；高胜率但负期望的系统仍可能长期亏损。"
     },
     {
-      "topic": "财政部节奏与资金价格 regime change",
-      "summary": "Corsica267 尚在等待确认；观察财政部发行与结算、回购工具、融资利率和期限溢价，判断市场对资金价格的容忍度是否真的改变。"
+      "topic": "创业债务豁免的税务与法律后果",
+      "summary": "Ackman 的说法需要结合最终法案、债务工具、破产保护与美国债务豁免收入例外逐项核验，不能把社交媒体判断直接视为确定税务结果。"
     },
     {
-      "topic": "AMD 的短缺情景机会",
-      "summary": "ShanghaoJin 的判断有明确前提：GPU 必须出现供给短缺。应观察交付周期、云厂商采购、MI 系列利用率与价格，而不是把条件句当作无条件看多。"
-    },
-    {
-      "topic": "AI 与具身智能的治理风险",
-      "summary": "TaoRay 的内容是长期社会情景而非交易信号；后续可跟踪监控技术、机器人武器化、数据治理和权力制衡的真实制度变化。"
+      "topic": "房地产房龄与建造周期",
+      "summary": "物业筛选可加入建造年份、当时经济周期、开发商、施工标准、维修记录和社区资本开支，而不是只用“新房”或“成熟社区”标签。"
     }
   ]
 }
